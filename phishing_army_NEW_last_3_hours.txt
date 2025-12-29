@@ -1,8 +1,128 @@
 # New records added to Phishing Army Extended Blocklist
 # Source: https://phishing.army/download/phishing_army_blocklist_extended.txt
-# Last updated: 2025-12-29 12:32:15 UTC
-# Blocklist Last-Modified: Mon, 29 Dec 2025 05:00:08 GMT
-# Blocklist Last-Modified (epoch): 1766984408
-# Total new records: 0
+# Last updated: 2025-12-29 15:16:38 UTC
+# Blocklist Last-Modified: Mon, 29 Dec 2025 11:00:09 GMT
+# Blocklist Last-Modified (epoch): 1767006009
+# Total new records: 121
 
-# No new records detected in the last check
+948zer48zuefze.mardnahada.site
+abadanonline.com
+accoun.majhvdx.cn
+admin-extranet-mail.com
+aeon.tvkuzvb.cn
+agenzia-portale.sbs
+aiebilet.pl-smart1859242.cfd
+aiebilet.pl-smart7681241.cfd
+aiebilet.pl-smart81247124.cfd
+aiebilet.pl-smart8571242.cfd
+alebilet.95482.vu
+alebilet.id223.pl
+alebilet.pl-smart1859242.cfd
+alebilet.pl-smart81247124.cfd
+alebilet.pl-smart8571242.cfd
+allebilet.pl-smart1859242.cfd
+allebilet.pl-smart81247124.cfd
+allebilet.pl-smart8571242.cfd
+allebilet.pl-smart8912784.cfd
+allegro.pl-smart7681241.cfd
+allegro.pl-smart81247124.cfd
+allegro.pl-smart8571242.cfd
+allegro.pl-smart8912784.cfd
+allegrolokainie.pl-smart1859242.cfd
+allegrolokainie.pl-smart81247124.cfd
+allegrolokainie.pl-smart8912784.cfd
+allegrolokalne.pl-smart81247124.cfd
+allegrolokalne.pl-smart8571242.cfd
+allegrolokalne.pl-smart8781242.cfd
+allegrolokalne.pl-smart8912784.cfd
+allegrolokalnie.pl-2851541526kwhwttwh027262292621f.sbs
+allegrolokalnie.pl-574862.icu
+allegrolokalnie.pl-oferta847304235.sbs
+allegrolokalnie.pl-smart81247124.cfd
+allegrolokalnie.pl-smart8571242.cfd
+allegrolokalnie.pl-smart8912784.cfd
+aowka.pl
+astraomoge.world
+astroaggec.pro
+avgaffiliates.com
+bank.269880.xyz
+boruxuyukita.world
+casertatrasporti.it
+cheroenhal.pro
+discrimmel.casa
+docs.kpis.ae
+doz.off-eu.cyou
+dziecko-informacje-wiadomosci.com
+echovoyager.cfd
+fairalerts.in
+fumigmiria.casa
+id223.pl
+imbiointor.casa
+insapbesti.pro
+latesttrendstories.live
+lezziaffas.world
+lisoccamit.world
+livenewsdigestnow.live
+lunaferis.com
+mailya8ajj6aqd5sxlxc64xfgfaysq6aqd5sxlxc64x.nucwma.com
+markmcmurray.com
+matteprede.casa
+mediastonesitalia.com
+mesagadol.world
+moje-fakturaklientadisney.com
+moje-spotify.com
+monitcarca.casa
+mystatucheck.com
+mystichorizon.cfd
+nirldemor.world
+nitrimelan.world
+olx.pl-smart1859242.cfd
+olx.pl-smart81247124.cfd
+olx.pl-smart8571242.cfd
+olx.pl-smart8912784.cfd
+pagarcorru.pro
+panarcadianfederation.com
+permuscomu.world
+piovastifl.pro
+pl-574862.icu
+pvjxu.troniva.cfd
+qr1.focusitfarm.live
+quantumstream.cfd
+quantumtide.cfd
+radiomalap.pro
+rimpopseud.casa
+rituals-store.online
+saireatibatsfdkilabdndvxf.cfolks.pl
+sattvpiegh.casa
+smcad.org
+smyksalepl.sbs
+spronistal.world
+sushiswapcode.trackfinanceworld.com
+sylreth.com
+teamwgronc.world
+thebtcmaximum-ai-com.trackfinanceworld.com
+theimmediatemaximizer-com-gen1.trackfinanceworld.com
+theoil4eprex-com.trackfinanceworld.com
+twojkrok.site
+varioth.com
+vescipazzi.pro
+vinted.pl-smart1859242.cfd
+vinted.pl-smart81247124.cfd
+vinted.pl-smart8571242.cfd
+vinted.pl-smart8912784.cfd
+webmail-it.fardaedtion.site
+worldinsidestory.live
+www.casertatrasporti.it
+www.dziecko-informacje-wiadomosci.com
+www.echovoyager.cfd
+www.lunaferis.com
+www.mystichorizon.cfd
+www.quantumstream.cfd
+www.quantumtide.cfd
+www.smyksalepl.sbs
+x-trader-aiplatform.com
+xn--albilet-b9a.pl-smart81247124.cfd
+xn--albilet-b9a.pl-smart8571242.cfd
+xn--albilet-b9a.pl-smart8781242.cfd
+xn--albilet-b9a.pl-smart8912784.cfd
+zegini.world
