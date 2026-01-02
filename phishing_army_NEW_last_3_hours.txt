@@ -1,72 +1,8 @@
 # New records added to Phishing Army Extended Blocklist
 # Source: https://phishing.army/download/phishing_army_blocklist_extended.txt
-# Last updated: 2026-01-02 01:13:05 UTC
+# Last updated: 2026-01-02 04:01:11 UTC
 # Blocklist Last-Modified: Thu, 01 Jan 2026 23:00:09 GMT
 # Blocklist Last-Modified (epoch): 1767308409
-# Total new records: 65
+# Total new records: 0
 
-44ee30e2-8b5c-4f54-b0df-356e9abad6bc-00-12sjejdojjjn7.kirk.replit.dev
-785403.vu
-903847.vu
-ad-news.news
-aiebilet.pl-smart6712412.cfd
-aiebilet.pl-smart91824812.cfd
-alebilet.745695.vu
-alebilet.785403.vu
-alebilet.903847.vu
-alebilet.pl-smart6712412.cfd
-alebilet.pl-smart91824812.cfd
-allebilet.pl-smart6712412.cfd
-allebilet.pl-smart91824812.cfd
-allegro.785403.vu
-allegro.903847.vu
-allegro.pl-smart6712412.cfd
-allegro.pl-smart91824812.cfd
-allegrolokainie.pl-smart6712412.cfd
-allegrolokainie.pl-smart91824812.cfd
-allegrolokalne.pl-smart6712412.cfd
-allegrolokalne.pl-smart91824812.cfd
-allegrolokalnie.04805.click
-allegrolokalnie.09381.click
-allegrolokalnie.63638.vu
-allegrolokalnie.745695.vu
-allegrolokalnie.903847.vu
-allegrolokalnie.pl-768245.cfd
-allegrolokalnie.pl-smart6712412.cfd
-allegrolokalnie.pl-smart91824812.cfd
-bonk-coin.pw
-cavitordin.pro
-democfabul.homes
-finanmunic.homes
-growgenbio.com
-jawadtrade.sa
-kirghlingu.homes
-kszhiduoxing.com
-leninnitro.homes
-olx.785403.vu
-olx.903847.vu
-olx.dealcompleted.icu
-olx.pl-smart6712412.cfd
-olx.pl-smart91824812.cfd
-pl-768245.cfd
-pumpfun-celebration.org
-recover-signer.com
-sakyby.com
-santander-pl.top
-sdsoloshop.com
-sensorgenbio.com
-sgrafinfus.pro
-sncf-connect.cc
-srv245109.hoster-test.ru
-sushi-swap.biz
-swiiiscss.com
-tjileunfool.2ix.de
-vinted.745695.vu
-vinted.785403.vu
-vinted.903847.vu
-vinted.pl-smart6712412.cfd
-vinted.pl-smart91824812.cfd
-webappsecureaaconshiwquyw43tsdg234sdhs.pccanomali4.biz.id
-xn--albilet-b9a.pl-smart6712412.cfd
-xn--albilet-b9a.pl-smart91824812.cfd
-zahnarzt-assistenzstelle.de
+# No new records detected in the last check
