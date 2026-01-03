@@ -1,77 +1,8 @@
 # New records added to Phishing Army Extended Blocklist
 # Source: https://phishing.army/download/phishing_army_blocklist_extended.txt
-# Last updated: 2026-01-03 12:28:02 UTC
+# Last updated: 2026-01-03 15:13:54 UTC
 # Blocklist Last-Modified: Sat, 03 Jan 2026 11:00:12 GMT
 # Blocklist Last-Modified (epoch): 1767438012
-# Total new records: 70
+# Total new records: 0
 
-access-edua-wab.pineapple.page
-actorzoneh.info
-alebilet.pl-oferta6521785.sbs
-allegro.pl-oferta6521785.sbs
-allegro.pl-smart08371.sbs
-allegro.pl-smart27491.sbs
-allegro.pl-smart63720.sbs
-allegro.pl-smart72020.sbs
-allegrolokalnie.pl-oferta6521785.sbs
-allegrolokalnie.pl-smart08371.sbs
-allegrolokalnie.pl-smart63720.sbs
-allegrolokalnie.pl-smart72020.sbs
-amendes-antai-gouv-infractions.unsworthfuneralservice.com
-andreosmos.homes
-auniverbiaa.net
-bathuvip.shop
-bloomingtales.ae
-borchrande.homes
-boutique-dofus.fr
-brandinghubh.info
-cinemaloversh.info
-cjtflowers.co.uk
-doc-exodusweb3-auth.pineapple.page
-drumzoneh.info
-eleggconso.homes
-eredaturbu.homes
-guitarworldh.info
-handiceii.pro
-inabigesit.pro
-klelnanzeigen-deutch.total355.live
-klientfos.net
-lastrun.tv
-marliveloc.homes
-mjg.co.th
-mybiogeninternal.com
-offre-carte-senior.info
-olx.pl-oferta6521785.sbs
-olx.pl-smart08371.sbs
-olx.pl-smart27491.sbs
-olx.pl-smart63720.sbs
-olx.pl-smart72020.sbs
-partedisim.homes
-penetdeman.pro
-pianohubh.info
-pl-oferta6521785.sbs
-pl-smart08371.sbs
-pl-smart27491.sbs
-pl-smart63720.sbs
-pl-smart72020.sbs
-pub-4106757ffadd4696bfa963a0b6955e4f.r2.dev
-pub-f61d5eb08b6f461eb0310ed71224f01c.r2.dev
-riperrampo.pro
-ristivilis.homes
-scorastras.homes
-sfiocvendo.homes
-shop.wppwppl.shop
-socialmediaworldh.info
-sorpainzuc.pro
-tfouuuu-laamok-apoos.codeanyapp.com
-thousandtgrateful.whoispavel.com
-unsymsobba.homes
-user-service.sakshiclassifieds.com
-videomakersh.info
-vinted.pl-oferta6521785.sbs
-web-exodea-io.pineapple.page
-webs-exodus-en-public.pineapple.page
-webull-entering.com
-wiseldisab.pro
-www.bathuvip.shop
-www.boutique-dofus.fr
+# No new records detected in the last check
