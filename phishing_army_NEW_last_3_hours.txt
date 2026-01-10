@@ -1,66 +1,8 @@
 # New records added to Phishing Army Extended Blocklist
 # Source: https://phishing.army/download/phishing_army_blocklist_extended.txt
-# Last updated: 2026-01-10 12:28:18 UTC
+# Last updated: 2026-01-10 15:14:03 UTC
 # Blocklist Last-Modified: Sat, 10 Jan 2026 11:00:09 GMT
 # Blocklist Last-Modified (epoch): 1768042809
-# Total new records: 59
+# Total new records: 0
 
-acikagrfcool.live
-agniezaj.pl
-alizsy.pl
-allegrolokalnie.70846.org
-ammardecal.pro
-aseisfluid.rest
-avancwlenc.pro
-beatu.site
-blatecaten.pro
-carte-public-sante.com
-ciascdispu.pro
-contrperdo.rest
-cujotoo.com
-czarodziejskaprzestrzen.com
-demensmeli.rest
-dfhm45.xyz
-discoantih.rest
-elucirumpma.pro
-emancattri.rest
-eroka.getstrongtoholdon.info
-fajesuo.com
-filmmountainl.info
-fioriporta.rest
-firebuildl.info
-firefishl.info
-fishcatl.info
-fishcryptol.info
-fishphotol.info
-giromtrans.rest
-giumederim.rest
-hxkqabcf.com
-if.fubepustore.buzz
-impalsobra.pro
-justfancee.com
-kalderon.ru
-lardescope.pro
-lvwxes04.com
-mailacutaas.store
-manageupdtbillscureoaeokmedkogmv.hisbulpak.biz.id
-microvende.pro
-molliflora.rest
-netdated.com
-octanbistr.rest
-oklopz.com
-olx.sh0p-skrill.icu
-outspprima.rest
-patartorne.pro
-penalwestm.rest
-qyhexia.com
-regathoriz.rest
-rimpaanopl.pro
-salegtrihy.rest
-sciamsegre.pro
-stropsfras.pro
-truffantro.pro
-unvacrimbr.pro
-vonnect.info
-webappsecureaccontsdfgtj3498ot6yhdfslkg34tygsdfg.demigod4.biz.id
-wooelectronics.me
+# No new records detected in the last check
