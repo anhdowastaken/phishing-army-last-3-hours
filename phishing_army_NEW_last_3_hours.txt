@@ -1,8 +1,37 @@
 # New records added to Phishing Army Extended Blocklist
 # Source: https://phishing.army/download/phishing_army_blocklist_extended.txt
-# Last updated: 2026-01-18 09:15:12 UTC
-# Blocklist Last-Modified: Sun, 18 Jan 2026 05:00:15 GMT
-# Blocklist Last-Modified (epoch): 1768712415
-# Total new records: 0
+# Last updated: 2026-01-18 12:28:29 UTC
+# Blocklist Last-Modified: Sun, 18 Jan 2026 11:00:07 GMT
+# Blocklist Last-Modified (epoch): 1768734007
+# Total new records: 30
 
-# No new records detected in the last check
+acridhydro.rest
+airbnb.pl-oferta6210.sbs
+api.sncf-connect.cam
+bascidispo.rest
+bhabanagarafoundation.org
+bosquedelsur.cl
+calarixtrader1-8.com
+ceyra.cfd
+confuredis.rest
+contafosfo.rest
+cs2challenger.com
+forivuo.com
+go-sale.online
+ingiberelm.com
+jackdvapou.rest
+medlamarkt.pl
+optimimpro.rest
+paodiren.com
+partedolos.rest
+pay.assistenki.shop
+pay.eportsempiricus.online
+pl.twoja-paka.eu
+positdigit.rest
+service.licon66.com
+sncf-connect.cam
+teams-rus.com
+unshodiges.rest
+wallapop.sms34.sbs
+warmtdislo.rest
+www.ceyra.cfd
