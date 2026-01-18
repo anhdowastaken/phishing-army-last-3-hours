@@ -1,8 +1,99 @@
 # New records added to Phishing Army Extended Blocklist
 # Source: https://phishing.army/download/phishing_army_blocklist_extended.txt
-# Last updated: 2026-01-17 21:13:16 UTC
-# Blocklist Last-Modified: Sat, 17 Jan 2026 17:00:09 GMT
-# Blocklist Last-Modified (epoch): 1768669209
-# Total new records: 0
+# Last updated: 2026-01-18 01:18:59 UTC
+# Blocklist Last-Modified: Sat, 17 Jan 2026 23:00:08 GMT
+# Blocklist Last-Modified (epoch): 1768690808
+# Total new records: 92
 
-# No new records detected in the last check
+2089224e-cdef-419e-a090-faea1494dd94-00-1smzqryixs0ga.picard.replit.dev
+23bc74n23c4.shop
+31gwhw7.lat
+4b65qfw.lol
+4beebf27-74d8-453a-ab60-91027114de09-00-1p6ac3ebq2i1i.janeway.replit.dev
+6wg62w.lat
+9k21qj6.lol
+allegrolokalnie.oferty-84823854-zima2026.sbs
+allegrolokalnie.pl-342492841695.cfd
+allegrolokalnie.pl-firmowe-98428.sbs
+allegrolokalnie.pl-oferta-549345934592929292911040504345-fast.click
+allegrolokalnie.pl-oferta736473.cfd
+alpha-trustwallet.com
+amgchem.ae
+bivacstaba.rest
+booking.reservation-id692018.com
+bwhpage-open01.com
+campesciop.rest
+capocutter.rest
+clothingmarket.online
+delivery-constant.cc
+digimoni.jp
+direct-hotel-acess.com
+direct-room-access.com
+directaworld.com
+doz.giordanovini.sale
+estafeta.compradores.live
+fast-hotel-access.com
+frelkondax.pro
+gestion-dgfip.fr
+gues-direct-entry.com
+gues-reservationhub.com
+guest-acces-portal.com
+guest-access-portal.com
+guest-direct-entry.com
+guest-reservashionethub.com
+guests-access-portal.com
+hepatacuti.rest
+hotel-checkin-access.com
+hotel-entry-portal.com
+hotel-guest-access.com
+housresv.com
+humatabbru.rest
+impresensi.rest
+intrasbocc.rest
+klelnanzeigen-deutch.shipping235.live
+libroseo.net
+msenterprisee5migrate-swisstransfer.com
+newssc.cc
+nextgaz1ta.info
+nowe-17-01-26-pl.top
+ord.deepvalued.com
+osloskop.net
+oxx7opl.q4bdou.bond
+pagbank.ativarplanodetaxas.com
+pagebwh-enter24.com
+pagebwh-enter37.com
+pagebwh-enter38.com
+pagebwh-enter39.com
+pagebwh-enter40.com
+payments-hostinger.griffione.com
+poczta.webrielok.cyou
+precisefeedhub.pro
+preluortho.rest
+quick-room-entry.com
+rebateday.cyou
+repairslogo.plainkeyman.com
+requests-conformato.com
+room-entery-hub.com
+room-entry-hub.com
+room-entry-hubb.com
+secur-room-access.com
+secure-room-access.com
+settaconfr.rest
+siliqiy.com
+sissianale.rest
+sovvevivis.rest
+spinny5top.pro
+staufgelok.info
+stewartcharles.shop
+strazsoda.rest
+top-sound.live
+trustedock.com
+verificar-cttexpresso.com
+visitr-roomschec.world
+w-shoespl.shop
+wasit-arab.com
+www.clothingmarket.online
+www.rebateday.cyou
+www.siliqiy.com
+www.stewartcharles.shop
+www.w-shoespl.shop
