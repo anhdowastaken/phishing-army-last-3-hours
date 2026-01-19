@@ -1,8 +1,113 @@
 # New records added to Phishing Army Extended Blocklist
 # Source: https://phishing.army/download/phishing_army_blocklist_extended.txt
-# Last updated: 2026-01-18 21:13:14 UTC
-# Blocklist Last-Modified: Sun, 18 Jan 2026 17:00:09 GMT
-# Blocklist Last-Modified (epoch): 1768755609
-# Total new records: 0
+# Last updated: 2026-01-19 01:18:03 UTC
+# Blocklist Last-Modified: Sun, 18 Jan 2026 23:00:10 GMT
+# Blocklist Last-Modified (epoch): 1768777210
+# Total new records: 106
 
-# No new records detected in the last check
+24denmark.today
+4wgw625.lat
+7wbhey3.lol
+advancesurge.com
+alebrelok.pl
+alimekatac.rest
+allegrolokalnie.096211.click
+allegrolokalnie.12748p49213x2.sbs
+allegrolokalnie.oferty-proponowane-dla-ciebie-2673622.sbs
+allegrolokalnie.pl-90136.icu
+allegrolokalnie.pl-oferta-524825825425929952654353.sbs
+allegrolokalnie.pl-oferta6831.cfd
+allegrolokalnie.pl-smart8757122.cfd
+allegrolokalnie.pl55659.cfd
+allegrolokalnie.pls2gzahxt62xk.sbs
+amagzon.cfd
+andromeda-it.com
+architekt-dom.pl
+ashdajskdas.site
+becompany.markets
+bill-fix.com
+boatso.com
+brighdeaer.rest
+broking-update.com
+bunkebarnd.rest
+capellacanta.pl
+cartermiles.shop
+cliff5edge.pro
+cocherie.locker-etape.com
+colorbiti.com
+conucaduc.rest
+corenvia.site
+cryogsfati.rest
+daynicehoteltokyo.com
+de-la-chapelle.locker-etape.com
+dhl.e-paczki.eu
+dianarestauranthos.world
+directsaleslistings.com
+disegood.2ix.ch
+draftkvf.com
+dymor.cfd
+eldectomil.com
+embrigamet.rest
+epatietern.rest
+facebook.snapmartechnologies.com
+faktowiec24.pl
+gorriealet.com
+gracehwl.com
+groffa.shop
+gros.locker-etape.com
+hagegay.com
+hayesashley.shop
+hindiseries.com
+homprepsie.com
+id301920-12.click
+igniteexcel.com
+impactexpand.com
+indullycan.rest
+intergalio.rest
+iwantpixels.com
+jauroffect.today
+kornkansthisship-online.s26.hostcreators.sk
+kourakater.com
+leukatackl.rest
+madlensstudio.pl
+martinamanda.shop
+martinezandrew.shop
+mer-car.com.pl
+morais-cardoso.locker-etape.com
+navics2.sbs
+netlfix-mp.com
+netolavexario.com
+news24pl.today
+noobs.locker-etape.com
+nowe-18-01-26-pl.top
+nowhub.today
+obietangli.rest
+obrazmozaika.pl
+oponyonline.shop
+orcinteago.com
+pathwaysurge.com
+pay.blackbarsi.store
+peverratee.rest
+protect48-booking.com
+requests-bookable.com
+samsoftapps.com
+sbisec-jp.games258.com
+sculptvayak.com
+simmonssamuel.shop
+syltheria.com
+thomasethan.shop
+thouvenin.locker-etape.com
+trustcontrol092-booking.com
+turenetouf.com
+unconcatac.rest
+unitequest.com
+uso8oo.com
+vdjhrr.de
+vexonaventrix.com
+vinted.post87684.cfd
+vosavyi.com
+www.amagzon.cfd
+www.dymor.cfd
+www.faktowiec24.pl
+www.groffa.shop
+www.hindiseries.com
