@@ -1,61 +1,8 @@
 # New records added to Phishing Army Extended Blocklist
 # Source: https://phishing.army/download/phishing_army_blocklist_extended.txt
-# Last updated: 2026-01-25 15:14:29 UTC
+# Last updated: 2026-01-25 18:21:33 UTC
 # Blocklist Last-Modified: Sun, 25 Jan 2026 11:00:10 GMT
 # Blocklist Last-Modified (epoch): 1769338810
-# Total new records: 54
+# Total new records: 0
 
-agemiinfag.rest
-allegrolokalnie.pl-2501226.icu
-ativatvbox01h.shop
-authomany.aahframework.com
-basengplc.com
-bluepearltech.info
-camerricor.rest
-collarunske.rest
-domesebura.rest
-dongqiuprae.com
-dongqiutix.com
-donnyl.club
-fuzzyreflection.com
-gpt-3v-app-official.com
-hktoxdz.cn
-impighubbi.rest
-imprasnowd.rest
-ingresrltaupy.com
-isabellecaros.com
-jbxucuv.cn
-jecyreu.com
-kenybea.store
-kerryburke.com
-ln6ost.mj3pjz.lat
-lumavelle.site
-npost.cyou
-pelletriva.com
-pelletxera.com
-pelletzora.com
-pl-2501226.icu
-postmobi.com
-primeatendimento.info
-qavexlori.com
-qavonelir.com
-qavrilone.com
-qaxirnove.com
-qironelav.com
-releaidrol.rest
-safetynews.pro
-smyk.friscosale.sbs
-spellsball.rest
-suertliber.rest
-supporto.id-it.app
-tarsiuips.rest
-tellfolded.sharktankaddicts.com
-torrecetil.rest
-uat.zro.app
-vitez.ba
-vorsppanic.rest
-wambuinseg.rest
-weqikoy.com
-whirlvivid.biz
-xufumou.com
-y61.jxciv0o.info
+# No new records detected in the last check
