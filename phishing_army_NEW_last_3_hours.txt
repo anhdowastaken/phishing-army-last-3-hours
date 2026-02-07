@@ -1,8 +1,101 @@
 # New records added to Phishing Army Extended Blocklist
 # Source: https://phishing.army/download/phishing_army_blocklist_extended.txt
-# Last updated: 2026-02-07 12:33:29 UTC
-# Blocklist Last-Modified: Sat, 07 Feb 2026 05:00:08 GMT
-# Blocklist Last-Modified (epoch): 1770440408
-# Total new records: 0
+# Last updated: 2026-02-07 15:18:21 UTC
+# Blocklist Last-Modified: Sat, 07 Feb 2026 11:00:17 GMT
+# Blocklist Last-Modified (epoch): 1770462017
+# Total new records: 94
 
-# No new records detected in the last check
+13.paypal-online.antimoney-laundering.org
+22.ziinjjb66.paypal.antimoney-laundering.org
+46-s4126b.paypal-panel.antimoney-laundering.org
+73a2370016b7.fsns.paypal-online.antimoney-laundering.org
+73a2370016b7.petnm.paypal-login.antimoney-laundering.org
+73a2370016b7.preprod.paypal-here.antimoney-laundering.org
+a2xphone.paypal-panel.antimoney-laundering.org
+allegrolokalnie.smart-95631.cfd
+ampliheads.rest
+andersonmary.shop
+answerharbor.com
+apogeedexlink-app.com
+armieconfr.rest
+aurevianco.site
+authz.paypal.antimoney-laundering.org
+awuxawewa.top
+b6itbyte.info
+b6oox.info
+bacchdefro.rest
+beierxl.paypal-network.antimoney-laundering.org
+bellshop.paypal-update.antimoney-laundering.org
+canalplusinfo.info
+capabflip.cfd
+chalkspell.rest
+cheminfundria.com
+choisir-un-point-relais.com
+classyactive.cyou
+cldx.paypal-business.antimoney-laundering.org
+comcrypto.paypal-login.antimoney-laundering.org
+conta-outlook.com
+conteonora.rest
+coppedimac.rest
+cp2.accounts-paypal.antimoney-laundering.org
+crecorfundoria.com
+displaycurved.best
+dynamicin.info
+ecn.paypal-topup.antimoney-laundering.org
+enhancementsgalaxy.casa
+excepminomu.rest
+fda.hamburg.paypal.antimoney-laundering.org
+fw02.paypal-service.antimoney-laundering.org
+gi233.paypal-transfer.antimoney-laundering.org
+gp.commercialfmp.paypal.antimoney-laundering.org
+gpt6onm.com
+happysig.bond
+ieracist.top
+jam-radio.online
+kimocorp.com
+ksquarec.thennagam.com
+l7.paypal-ids.antimoney-laundering.org
+leadaspiration.com
+leeoliver.shop
+milltorio.com
+mimatie.com
+mpd.paypal-panel.antimoney-laundering.org
+netfx-vod.com
+nishiya-kensetu.website
+nowe-05-02-2026.click
+ochniks-pl.com
+oleafw.click
+opscgi-sys.paypal-service.antimoney-laundering.org
+oraclevortexty.info
+os10.paypal-press.antimoney-laundering.org
+paperbicil.rest
+paragmanyp.rest
+paypal-net.antimoney-laundering.org
+play.paypal-japan.antimoney-laundering.org
+portfolio.valid2fa.com
+quicom.info
+rafidviril.rest
+s.device1.paypal-profile.antimoney-laundering.org
+sangpejuang.com
+scienwasher.best
+sealproc.best
+secure23274.paypal-ssl.antimoney-laundering.org
+sloadm.sbs
+sograoil.com
+souzokuhoken-navi.online
+squashlhard.cam
+stage-app.paypal-activate.antimoney-laundering.org
+svillaccor.rest
+swapdexair-cap.com
+swiatlofinthor-app.com
+trapeinfra.rest
+troop25-orlando.website
+trusttraderai.com
+uat1.b2g70.paypal-network.antimoney-laundering.org
+vcsc.paypal-internet.antimoney-laundering.org
+vrcholfundalis.com
+waikiki.place.paypal.antimoney-laundering.org
+wireless.paypal-network.antimoney-laundering.org
+www.netfx-vod.com
+xps2.paypal-net.antimoney-laundering.org
+yalutz.profile-paypal.antimoney-laundering.org
