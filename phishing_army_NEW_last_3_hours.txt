@@ -1,8 +1,99 @@
 # New records added to Phishing Army Extended Blocklist
 # Source: https://phishing.army/download/phishing_army_blocklist_extended.txt
-# Last updated: 2026-02-07 21:19:51 UTC
-# Blocklist Last-Modified: Sat, 07 Feb 2026 17:00:08 GMT
-# Blocklist Last-Modified (epoch): 1770483608
-# Total new records: 0
+# Last updated: 2026-02-08 02:00:29 UTC
+# Blocklist Last-Modified: Sat, 07 Feb 2026 23:00:13 GMT
+# Blocklist Last-Modified (epoch): 1770505213
+# Total new records: 92
 
-# No new records detected in the last check
+4f.drooooogerienatura-pl.top
+51015kidspl.club
+73a2370016b7.222damam13.activate-paypal.antimoney-laundering.org
+ag-35888.paypal-topup.antimoney-laundering.org
+albert.paypal-panel.antimoney-laundering.org
+allegrolokalnie.pl-276392.sbs
+allegrolokalnie.pl-6531653.cfd
+allegrolokalnie.pl-6531753.cfd
+allegrolokalnie.pl-677317.sbs
+allegrolokalnie.smart-94731.cfd
+anlausconv.rest
+apexorty.info
+atlzwm.paypal-login.antimoney-laundering.org
+att.psiew.cc
+bakerclara.shop
+bellnora.shop
+billing.paypal-perpaid.antimoney-laundering.org
+bncrofi.top
+bqexarbeard.info
+carterevans.shop
+cartimaize.rest
+ccoonlinesale.com
+cloud.webproduction-refund.povwt.com
+condim62--a660ad28039611f1bc2842dde27851f2.web.val.run
+confasoste.rest
+digertempe.rest
+dodecrienf.rest
+dprextupor.pro
+enoplcotra.rest
+exdus-wallet.created.app
+exo-dus-wallet-extension.created.app
+exodus-wallet-extension-en.created.app
+exodusweb3-co.created.app
+exxduss-walat-io.created.app
+eznamodearf.pro
+fitnes.online-off.sbs
+fluxiumuup.top
+handc0nst.com
+holtonrobotics.org
+home-exdust-trust.created.app
+il6hii.casa
+inanifango.rest
+infiodisco.rest
+inpost.pl-sid399651.sbs
+irregularcoun.cfd
+jefomuo.com
+joa494.paypal-survey.antimoney-laundering.org
+keydwhat.prettyshowy.com
+klientaksooeoirver.net
+llt.bugu360.net
+ln6ost.kn7wvt.best
+managewebapapiugjksdge.dgjr6tujtyportyhgdfh.com
+methofix.click
+milltoriaiolinanlpl.com
+milltoriaiolinpl.com
+milltoriapl.com
+my.turnwive.top
+mycloud.paypal-on-the-go.antimoney-laundering.org
+nebulixfear.top
+netflix-payement.antimoney-laundering.org
+now-exodusweb.created.app
+orientedwind.paulamolinero.com
+oxx7opl.kn7wvt.best
+paypal-supported.antimoney-laundering.org
+pdok.paypal-panel.antimoney-laundering.org
+powaraless.top
+pulsonaless.pro
+qebycie.pro
+quantumwer.top
+quantumzenith.info
+rhodoscrep.rest
+sbaioiial.rest
+smyk.shopya.top
+smykvip.top
+sobildormi.rest
+soprasubst.rest
+startexodus.created.app
+swiat-whisky.shop
+syllabusi.digital
+trumpmolar.rest
+ulcerincup.rest
+vertexechod.info
+vortixveart.top
+web-us-auth.webredirect.org
+webmail-supports-helpdesk-securemail.appwrite.network
+websitedesignmiamai.info
+weeowe.icu
+wertexofurtor.info
+www.51015kidspl.club
+www.carterevans.shop
+www.ccoonlinesale.com
+xodus-wllt-extn.created.app
