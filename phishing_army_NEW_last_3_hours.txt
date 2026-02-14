@@ -1,8 +1,91 @@
 # New records added to Phishing Army Extended Blocklist
 # Source: https://phishing.army/download/phishing_army_blocklist_extended.txt
-# Last updated: 2026-02-14 09:24:35 UTC
-# Blocklist Last-Modified: Sat, 14 Feb 2026 05:00:09 GMT
-# Blocklist Last-Modified (epoch): 1771045209
-# Total new records: 0
+# Last updated: 2026-02-14 12:33:40 UTC
+# Blocklist Last-Modified: Sat, 14 Feb 2026 11:00:11 GMT
+# Blocklist Last-Modified (epoch): 1771066811
+# Total new records: 84
 
-# No new records detected in the last check
+864g.com
+activitesrecentxoom.info
+advanchange.presidon.com
+alebilet.pl-smart05912472412.cfd
+allegro.pl-smart05912472412.cfd
+allegrolokalnie.pl-smart05912472412.cfd
+alxrogan.net
+attacnow.comrefservices.com
+ballfalldown.com
+basketballtraderumors.com
+billingapi26.com
+broxuswin.app
+clzholding.com
+coconuthoney.com
+coconutmenu.com
+colemankinsley.shop
+contractwiz.com
+copypasteproject.com
+cor8edataline.info
+crkrevenue.com
+crypto-connectweb3.com
+diaryofmine.com
+diaryshiny.getmeeter.com
+doxyjoy.com
+duof.fewo-raum-freiburg.de
+easygreenprint.com
+eligible-bonkcoin.icu
+en-vertexclub.com
+fashiondeck.top
+fundgroup.online
+grammarzonex.com
+harrisdavid.shop
+hurricanekupdate.qualimaze.com
+inverlla.com
+jedunei.com
+jogyziu.com
+jsiwjskejekeksndfddt.com
+jupiterperm.devappweb.com
+kakao.casino
+kingnathan.shop
+klamotex.pro
+lnpost.barakuzlau.cyou
+meinpaypal.inc-eu.com
+modnakiecka.outleco.com
+ochnikeupl.shop
+olx-verif827.cfd
+olx.pl-smart05912472412.cfd
+olympslots.bet
+openpayments.sbs
+pancacke.com
+peoplesupport-jp.live
+pl-211514.cfd
+pl-smart05912472412.cfd
+ploko-pol.cfd
+powemex.com
+prolekrazl283.sbs
+pub-3681f47e7d324a3cba2141b188ed6aca.r2.dev
+pub-b88f0146811942dd95bf7888b6c21af6.r2.dev
+pumpfun-celebration.com
+pzugroup.cafecentralgrup.com
+rangecraft.ventascamporeal.com
+reproglp-colis.com
+robloxr.com.es
+ruralinformacive.xo.je
+santerhousehold.com
+service-antai.de
+slotingonline.com
+smyk-kids.shop
+stake-give.com
+starybumpy.club
+suivireprog-lp.com
+support-colis.net
+switchrev.richmondluncheonclub.com
+tikujai.com
+tuxtation.com
+vinted.pl-smart05912472412.cfd
+vr-in-info.im
+wiwi-plost.sbs
+wojossalepl.com
+www.harrisdavid.shop
+www.kingnathan.shop
+www.xn--mon-crneau-livraison-g2b.com
+xn--mon-crneau-livraison-g2b.com
+zuprel.pro
