@@ -1,78 +1,8 @@
 # New records added to Phishing Army Extended Blocklist
 # Source: https://phishing.army/download/phishing_army_blocklist_extended.txt
-# Last updated: 2026-02-15 12:36:19 UTC
+# Last updated: 2026-02-15 15:19:30 UTC
 # Blocklist Last-Modified: Sun, 15 Feb 2026 11:00:08 GMT
 # Blocklist Last-Modified (epoch): 1771153208
-# Total new records: 71
+# Total new records: 0
 
-accenslaki.rest
-access-support-nt.com
-app-cloud-conditionuserid873927.pom-k.fr
-assecocore.digital
-axiomampup.pro
-bac-puntos.com
-bidicares.com
-cccpl-online.shop
-chirotrunc.rest
-clockprestige.net
-compigodev.rest
-corebrecciaup.info
-corepelit.top
-cortexchertless.top
-crypto-tax-germany--fdssssss5656.replit.app
-cs2tw.space
-cyclitive.ritbxr.cn
-cyexamplee.gdvajt.cn
-dandmservices.com
-decemmoist.rest
-dpdpaczka.poklrrrkao.cyou
-dqwdwqd-awq.cyou
-eco-planetvision.info
-emails.webgem.top
-emeaular.bcvpke.cn
-flaregabbroid.top
-frostancient.shop
-frugapregi.rest
-granaripop.rest
-information-docto.com
-ireog-qwdwqwd.cyou
-listnapaczke2988481.com
-milsaleriaiasalepl.shop
-modelupdate.io
-monotschia.rest
-multiservicioslider.site
-nexuscraftd.top
-nexuseclog.top
-novendec.xxbglo.cn
-oreignpolicy.com
-paveninert.rest
-pl-dacknt.com
-pl-rabat.com
-pocztapl.tralikk54.click
-poklrrrkao.cyou
-psammuous.tffxnr.cn
-publisphereumx.org
-pulsebastty.pro
-pulseclinkery.top
-riferquadr.rest
-rimburadio.rest
-roccerat.digital
-satinpolyp.rest
-sicomscimi.rest
-sorbeforti.rest
-strucempo.rest
-tamburassa.rest
-thyrible.vyadkc.cn
-trazor-view.zapier.app
-trezor-recover.support
-vendeer.vdhnmu.cn
-vertexsoapy.pro
-visa-rewards-puntos.com
-wojaosepl.shop
-wusufea.com
-www.cccpl-online.shop
-www.information-docto.com
-www.militariaeu.com
-www.modelupdate.io
-www.multiservicioslider.site
-xyxfnj.com
+# No new records detected in the last check
