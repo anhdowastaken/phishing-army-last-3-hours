@@ -1,8 +1,99 @@
 # New records added to Phishing Army Extended Blocklist
 # Source: https://phishing.army/download/phishing_army_blocklist_extended.txt
-# Last updated: 2026-02-17 04:48:30 UTC
-# Blocklist Last-Modified: Mon, 16 Feb 2026 23:00:08 GMT
-# Blocklist Last-Modified (epoch): 1771282808
-# Total new records: 0
+# Last updated: 2026-02-17 06:50:57 UTC
+# Blocklist Last-Modified: Tue, 17 Feb 2026 05:00:07 GMT
+# Blocklist Last-Modified (epoch): 1771304407
+# Total new records: 92
 
-# No new records detected in the last check
+35zax.proxette.cc
+3e3c1a4c-bd54-4f76-8c27-37584e2d707d-00-f0irgjvbftr1.spock.replit.dev
+5r2ew1674037825681.s-meta.com
+62494.xyz
+95720461.xyz
+95sax.brellia.cc
+97wes.borotti.cc
+accounts.bmwweb.cc
+allegro-lokalnie.219d91d99d1.cyou
+allegro.28238787d23d2.cyou
+allegrolokalnie.oferta6311957.click
+allegrolokalnie.pl-oferta6385272.cfd
+anthridiop.rest
+artokki.com
+asistenciahoy.com
+assetconfiscationfund.com
+beigeglean.xcendamodels.com
+blankpagetravels.com
+bloxfruitsfree.com
+bybit.com.online-dex.sbs
+cargolifter.com.ar
+cavages.com
+clean-build-spot.com
+contrstata.rest
+craftnodeless.top
+credix.website
+cy7ber.info
+dasker.co.uk
+dmv.capl-gov.cc
+dpd-pl.sowizendo.cfd
+dreamovez.com
+entrada-cttexpresso.com
+f228v.xyz
+ft-correction.com
+iostart-trezer.zapier.app
+italydigital.it
+jamroom.org
+jfdic.org
+jfgraphix.org
+kraftuns.com
+kt-durnoe.sbs
+kuccoinpra.club
+kutxabank.app-servicioslogin.com
+llantasdelpacifico.co.cr
+metmsk.info
+mevx-whatsapp.hl.cn
+miaseilern.com
+microsoft-login.it
+mijnburgerprofiel.documentatie.info
+msradix.com
+myklifrou.net
+oateryange.serv00.net
+olx.sens-put.world
+pathfinderia.org
+pay.pagamentosfinalizarr.online
+pplvodniss.cnet.aeprint-group.ch
+programmation.pro
+qxtrax.com
+rauktvn.com
+raz.greenprox.cc
+roblox.com.kz
+s.teams-lm.com
+s107h.xyz
+samaiuolq.net
+samkopper.com
+sorneperve.rest
+started-trezo.zapier.app
+steamcommuninuty.com
+swissvisecaone.1wp.site
+tel17-securpass.com
+ts334.co
+u89w.xyz
+uhaiwater.org
+uhg.edu.py
+unisocks-fi.xyz
+upclearhz.com
+updates.partner-connect-marketing.com
+urban-independent.org
+urbangardening.org
+verdantcore.life
+whatsapp.nxtwebsite.com
+wphwxgtw.thebusaking.com
+www-robiox.co
+www.bloxfruitsfree.com
+www.bybit.com.online-dex.sbs
+www.ft-correction.com
+www.mevx-whatsapp.hl.cn
+www.miaseilern.com
+www.msradix.com
+www.oateryange.serv00.net
+www.pplvodniss.cnet.aeprint-group.ch
+www.ts334.co
