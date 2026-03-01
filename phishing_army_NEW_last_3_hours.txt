@@ -1,8 +1,52 @@
 # New records added to Phishing Army Extended Blocklist
 # Source: https://phishing.army/download/phishing_army_blocklist_extended.txt
-# Last updated: 2026-03-01 09:23:23 UTC
-# Blocklist Last-Modified: Sun, 01 Mar 2026 05:00:09 GMT
-# Blocklist Last-Modified (epoch): 1772341209
-# Total new records: 0
+# Last updated: 2026-03-01 12:34:14 UTC
+# Blocklist Last-Modified: Sun, 01 Mar 2026 11:00:12 GMT
+# Blocklist Last-Modified (epoch): 1772362812
+# Total new records: 45
 
-# No new records detected in the last check
+18rosedalerecords.com
+al6pha.info
+alertkpool.postkiller.com
+allegrolokalnie.94003.cyou
+allegrolokalnie.net-aukcja-1245325.cfd
+allegrolokalnie.pl-oferta01952.icu
+allegrolokalnie.pl-oferta8841868464.cfd
+apialriapp.rest
+bakerezra.shop
+brokebrand.rest
+cestorinve.rest
+ciatirifer.rest
+cracramimiw.com
+delphroval.life
+endogperfe.rest
+epidibreas.rest
+ezebra.1kruidvat.com
+fgclagospta.ripstechs.com.ng
+globalver.imseha.com
+gstri.prmnd.com
+homlastore.club
+imperantiu.rest
+inizirefus.rest
+kzenzsale.com
+labolis.com
+luridknorh.rest
+militaria.deal-pl.sbs
+militaria.jumbonl.com
+mohitosale.sbs
+mojdisneyplusklienta.com
+nonscspolt.rest
+ochnikplepl.com
+pearlidea.pioneerparkministorage.com
+pianscicat.rest
+pl-oferta01952.icu
+private.obuklvs.help
+rinchnewfa.rest
+serachoice.com
+shokherdokaan.com
+splashprop.downcitydivas.com
+sport.pl-sale.com
+stimulatedblueberry.dickdrone.com
+trendory.live
+www.labolis.com
+yaaahooo.shop
