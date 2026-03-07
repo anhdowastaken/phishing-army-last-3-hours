@@ -1,8 +1,120 @@
 # New records added to Phishing Army Extended Blocklist
 # Source: https://phishing.army/download/phishing_army_blocklist_extended.txt
-# Last updated: 2026-03-07 04:18:43 UTC
-# Blocklist Last-Modified: Fri, 06 Mar 2026 23:00:14 GMT
-# Blocklist Last-Modified (epoch): 1772838014
-# Total new records: 0
+# Last updated: 2026-03-07 06:31:27 UTC
+# Blocklist Last-Modified: Sat, 07 Mar 2026 05:00:09 GMT
+# Blocklist Last-Modified (epoch): 1772859609
+# Total new records: 113
 
-# No new records detected in the last check
+0140.ee
+76372coinbase.com
+90222.xyz
+account.apple-com.icu
+account.personal-notification.my.id
+afaa.vn
+agoda.org.uk
+alebilet.pl-297876279.sbs
+allaroundheatingandair.com
+allegro.pl-297876279.sbs
+allegro.pl-874324.sbs
+allegrolokalnie.pl-297876279.sbs
+allegrolokalnie.pl-874324.sbs
+anahirschle.com.br
+aslnradio.net
+attlink.keepo.bio
+bahutravels.com
+bank-update.store
+bbgamesrblx.click
+becucu.credit
+bet391.cc
+bet420.cc
+bet63bbb.com
+blnk.in
+brasilemdia.site
+centrumrowerowe.shop
+channel.nigafo.download
+click.naviphish.com
+cmrz-aktivierungs.info
+corporatelenders.cc
+danaaindonesia4xl.cexd.my.id
+danaid1.layanan-resmii.biz.id
+datatilsynet-signering.com
+dayforceushcm.credit
+dhl.mudar.top
+dopesnow-club.top
+easysetupgo.com
+ecms.documentexaminations.com
+email.cvlindia.com
+eobuwie.sbs
+fnbocreditus.credit
+formulier-lcscards.biz
+futiansdls.com
+garena.fadrab.cyou
+global.marketing-partner-invite.com
+htltps-roblox.com
+info-digital-signering.com
+information13600-app-unlock.onetmail.poczta-unlock.site
+information66603-app-unlock.onetmail.poczta-unlock.site
+information80166-app-unlock.onetmail.poczta-unlock.site
+information86635-app-unlock.onetmail.poczta-unlock.site
+intlupdtmanagescureowkmgakekgremv.sakramento21.biz.id
+josejesusxicotencatl1772779194537.1370269.misitiohostgator.com
+lecornelle.it
+ledgerqfsconnect.com
+login.facebook.checkyourbook.com
+mailer8-log.mdbgo.io
+marketingcrew.co.uk
+member07.partner-connect-marketing.com
+member800.marketing-partner-invite.com
+militaria-outlet.com
+mohitoshoppingsale.com
+mxx123.net
+myfcienvpcborizteam.saystudio.net
+myfcinfwyzlwhfwteam.saystudio.net
+myfciuqqluipjmbteam.saystudio.net
+myfciusaumuvuwxteam.saystudio.net
+myfcivwudlomkmateam.saystudio.net
+oauth.documentexaminations.com
+olx.pl-297876279.sbs
+olx.pl-874324.sbs
+pedagioplaca.digital
+personal43010-onet-verify.app-poczta.site
+personal48575-onet-verify.app-poczta.site
+personal55230-onet-verify.app-poczta.site
+personal60474-onet-verify.app-poczta.site
+personal67044-onet-verify.app-poczta.site
+personal87347-onet-verify.app-poczta.site
+pl-297876279.sbs
+pl-874324.sbs
+pl-eobuwie.shop
+pl-homewatchplus.com
+proxy.jmkjsh.com
+quickswap.ca
+remarkabletech.cc
+roblox.com.bn
+roblox.com.et
+roblox.com.ly
+s.teams-jl.com
+scruffly2base.info
+seurma.cc
+suncoastfcu.credit
+twezy.info
+udev.informedgreetings.com
+udjsxmwqdw.iostours.net
+ventaweb.ghbus.com
+verifizierung.my-premium.cloud
+vinted.pl-297876279.sbs
+vystarcuus.credit
+whatsapp-web.xyz.com
+www.76372coinbase.com
+www.90222.xyz
+www.bahutravels.com
+www.bbgamesrblx.click
+www.easysetupgo.com
+www.josejesusxicotencatl1772779194537.1370269.misitiohostgator.com
+www.lecornelle.it
+www.ledgerqfsconnect.com
+www.mwevmyltzm.jandpcconsulting.com.au
+www.polymarket.verifications.markets
+www.roblox.com.bn
+www.udjsxmwqdw.iostours.net
+www.whatsapp-web.xyz.com
