@@ -1,8 +1,95 @@
 # New records added to Phishing Army Extended Blocklist
 # Source: https://phishing.army/download/phishing_army_blocklist_extended.txt
-# Last updated: 2026-03-22 09:26:08 UTC
-# Blocklist Last-Modified: Sun, 22 Mar 2026 05:00:12 GMT
-# Blocklist Last-Modified (epoch): 1774155612
-# Total new records: 0
+# Last updated: 2026-03-22 12:36:03 UTC
+# Blocklist Last-Modified: Sun, 22 Mar 2026 11:00:11 GMT
+# Blocklist Last-Modified (epoch): 1774177211
+# Total new records: 88
 
-# No new records detected in the last check
+aldi.goopsin.shop
+aldieu.com
+autoticket49.com
+backmarketfr.com
+basenbadenzymcremes.com
+belvadoris-group.pro
+bleaudispe.rest
+bluecarrot.thevikingroom.com
+blueebay.info
+brantelora-digital.site
+breezzycloud.info
+brigetrezorr.wixstudio.com
+clarensabio.space
+classic.dopcesnow.shop
+clearrmind.info
+clearrpeak.info
+clientdesk.site
+coreoptiontrading.com
+cozyyhome.info
+cranivalic.rest
+crowwned.info
+dansilvercredit.com
+dazzlingg.info
+delonpette.rest
+desigbreak.rickmcc.com
+disimellen.rest
+dispersedkiwi.msmepayment.com
+doubleedrive.info
+dpd-pl.zamav.icu
+drappgiung.rest
+europe.dopcesnow.shop
+everorali.space
+fabbrteat.rest
+florora.space
+fz8pwr.top
+gardeneggplant.jampay.com
+gdlrq.com
+ginnaunstu.rest
+golddenkey.info
+greennsky.info
+hallbrian.shop
+happyytimes.info
+hornsshofu.rest
+hummblebee.info
+ikeafurniturediscounts.shop
+informantu.rest
+isabellstolt.shop
+jijibuy.de
+jxbdag.com
+jyskonline.top
+keetata.com
+kvanangen.com
+lakoln.com
+lidl.products-llc.com
+lonmoilles.com
+medicalaiapplicationsfi.info
+meetnvenut.rest
+mussiinnaf.rest
+newellbrands-usa.com
+nqjem.com
+olofodisag.rest
+pipibuy.de
+porcaperie.rest
+porowui.com
+powerfullmind.info
+qkyuunn.uk
+qshoutw.newkolkata.com
+raggrsemir.rest
+riverrside.info
+sale.dopcesnow.shop
+sanoviavi.space
+saway.sbs
+sbwzg.com
+seniorinsight.xyz
+serenoya.space
+sharppointy.info
+stephenjones.shop
+sweeetspot.info
+swentoluxa-matrix.site
+trendyyline.info
+trendyytrend.info
+tvoja-prilika.com
+twojeinwest.com
+vitalique.space
+welcommee.info
+yoffo.click
+zenoliama.space
+zzsyt.com
