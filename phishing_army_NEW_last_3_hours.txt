@@ -1,8 +1,77 @@
 # New records added to Phishing Army Extended Blocklist
 # Source: https://phishing.army/download/phishing_army_blocklist_extended.txt
-# Last updated: 2026-04-26 09:47:34 UTC
-# Blocklist Last-Modified: Sun, 26 Apr 2026 04:00:11 GMT
-# Blocklist Last-Modified (epoch): 1777176011
-# Total new records: 0
+# Last updated: 2026-04-26 12:51:58 UTC
+# Blocklist Last-Modified: Sun, 26 Apr 2026 10:00:10 GMT
+# Blocklist Last-Modified (epoch): 1777197610
+# Total new records: 70
 
-# No new records detected in the last check
+4f891c4a.diabetes-bewegung.de
+77312f28.diabetes-bewegung.de
+academicbizpro.com
+aephotograph.com
+appiademag.cyou
+bettaverboards.guru
+bright-bridge.wixstudio.com
+business-web0mail.com
+con-qrszl.ho2dh9.cn
+conidiophoreaas.guru
+credit-program.partneragencyportal.com
+demonsthhratethroughway.guru
+dhkpitea.lol
+dibotsbott.cyou
+enveloxxpesanthologizes.guru
+esisttrasc.cyou
+fajnyogrod.shop
+faqhelp.zapier.app
+gardenmania.shop
+gpmpnf.fnjsbkt.cn
+homepage-learn-us.wixstudio.com
+jagexloginosrs.gamingvote.com
+jambesarti.cyou
+josddhtextural.guru
+kkgyqft.jvjme.cn
+latarniasnow.com
+lbpiaccess.bankcom.org.ph
+liveledgr-desktop.wixstudio.com
+magicznyogrod.shop
+malaccacot.cyou
+marcipedal.cyou
+member247.agency-partner-register.com
+nonsaimpad.cyou
+official-suitesapp.wixstudio.com
+officials-desktop.wixstudio.com
+ogrodek24.shop
+onychophoddran.guru
+oxussid.waazsz.cn
+paczkapost.barkalazlot24.cfd
+paginatioeen.guru
+paperbounccd.guru
+pay.atacadistaofertaespecial.shop
+periodisde.cyou
+prewrapfillrsts.guru
+riserpicch.cyou
+safetrezor.wixstudio.com
+scalmcappe.cyou
+snitaatiestcivilly.info
+started-desktop-us.wixstudio.com
+started-desktop.framer.ai
+startlive-desktop.wixstudio.com
+sushi-swap.biz
+swimmyscolds.website
+tacchputre.cyou
+tappffetsecondariness.guru
+ubbpbyectene.guru
+ufuklazer.com
+ultramazza.cyou
+valcasopra.cyou
+vapouenthr.cyou
+verbiializing.guru
+vinted.deuts0hland-market.top
+vip9666.com
+webtrezo.wixstudio.com
+whitewazzlls.guru
+www.aephotograph.com
+xiwyjea.pro
+xlzlslqlz.lol
+zcskq.com
+zzcuq.com
