@@ -1,8 +1,129 @@
 # New records added to Phishing Army Extended Blocklist
 # Source: https://phishing.army/download/phishing_army_blocklist_extended.txt
-# Last updated: 2026-04-25 21:30:32 UTC
-# Blocklist Last-Modified: Sat, 25 Apr 2026 16:00:09 GMT
-# Blocklist Last-Modified (epoch): 1777132809
-# Total new records: 0
+# Last updated: 2026-04-26 02:05:48 UTC
+# Blocklist Last-Modified: Sat, 25 Apr 2026 22:00:09 GMT
+# Blocklist Last-Modified (epoch): 1777154409
+# Total new records: 122
 
-# No new records detected in the last check
+1j6v8n.lol
+5eyeyyr.top
+7e6t4r.top
+8362.lol
+874uyr4.top
+93jueyr6.top
+adsfasfhy.work
+agin.africa
+allegro.8362.lol
+allegrolokalnie.8362.lol
+allegrolokalnie.aukcja3419211.cfd
+allegrolokalnie.aukcja635425.cfd
+allegrolokalnie.oferta36985742.cfd
+allegrolokalnie.oferta425697.cfd
+allegrolokalnie.oferta9823514.cfd
+andyslp.com
+asaustech.com
+asdfadsfq.fit
+aukcja3419211.cfd
+aukcja635425.cfd
+bedavaolmaz.com
+brandsalesacademy.com
+chachkasgoatskccins.guru
+closeoutstore.de
+cloudcrea.ncalibrary.com
+confirmnow.agency-partner-community.com
+corporate-wellness-sg.com
+corrrsetiere.info
+cristscalp.cyou
+cykjw.com
+dersaukgased.com
+detribalizejjgastroliths.info
+discountshoeonlinesa.shop
+dmtweuzhht.work
+docusign.zondarecoverydocument.com
+driftinfjord.digital
+eccerocchi.cyou
+eu.fifaeu.com
+evicw.com
+extramaritalmarshlaniids.info
+fbar.us
+finance97-nostrum74.pro
+fjallreuoutlet.shop
+flowupcliff.digital
+fosnubiyga.work
+gmfuneralsupplies.com
+grillking.shop
+grilluj.shop
+groupsmoon.ecentertech.com
+hmlkz.com
+hsecurej.ecentertech.com
+icongendless.activreader.com
+impressivekey.ecentertech.com
+indeeefeasibilities.guru
+insphereslaggctase.guru
+intemlabia.cyou
+janicecomeau.shop
+jjconstruction.nl
+kabinetdesign.com
+kagitespor.com
+kazaronline.shop
+ksjycgadg.fit
+logih2ffn.sbisec.coihcv.jp
+login.zh-china-kaiyungame.com
+login.zh-mobi-aiyouxisports.com
+mo6enj.cfd
+mondial.kobolife.info
+nbrpt.com
+ncalibrary.com
+nojjnconsumer.info
+nrlnzblfeh.work
+o1lnx.z1uobz.sbs
+oexpr.activreader.com
+oferta36985742.cfd
+oferta425697.cfd
+oferta9823514.cfd
+olx.8362.lol
+olx.market-kauf01.online
+oneztone.isr-technology.com
+online-factory.shop
+paczka.namead.icu
+pagaeenizedantepast.info
+paijishi.com
+pastrdisso.cyou
+permidecli.cyou
+phantomverifyweb3.com
+phillcotab.cyou
+pkcou.com
+polskavita24x.pro
+polvesta-pro.com
+portal.xn--ipple-sbb.com
+qsycg.com
+rappeconve.cyou
+reinsdepre.cyou
+riattmaxil.cyou
+rinetpledg.cyou
+rlfjwlkjkl.fit
+rowerowyraj.shop
+rowerowystyl.shop
+samkaingenieria.com
+shro-syria.com
+shyaoyan.com
+spapxjqk.lol
+spargdisch.cyou
+spend-card-waitlist.top
+stamsh.xyz
+status.mo6enj.cfd
+strongdouuula.guru
+teatedreagguthorizing.info
+trehohk.com
+typegrech.cyou
+unapproacaahability.info
+visit.mo6enj.cfd
+vizmun.com
+wiliseedetrition.info
+worldmvps.com
+www-pay.xu6629.com
+www-pay.zh-live-speed-esports.com
+www2-pay.zh-h5-kanqiuba.com
+yqcgb.com
+zapasfundrelix.com
+zimulio.pro
