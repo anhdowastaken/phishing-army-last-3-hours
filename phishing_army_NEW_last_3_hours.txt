@@ -1,8 +1,120 @@
 # New records added to Phishing Army Extended Blocklist
 # Source: https://phishing.army/download/phishing_army_blocklist_extended.txt
-# Last updated: 2026-04-26 21:31:54 UTC
-# Blocklist Last-Modified: Sun, 26 Apr 2026 16:00:11 GMT
-# Blocklist Last-Modified (epoch): 1777219211
-# Total new records: 0
+# Last updated: 2026-04-27 02:08:08 UTC
+# Blocklist Last-Modified: Sun, 26 Apr 2026 22:00:10 GMT
+# Blocklist Last-Modified (epoch): 1777240810
+# Total new records: 113
 
-# No new records detected in the last check
+1d8b70ab.diabetes-bewegung.de
+21396023.cfd
+348t348378g3.bond
+62g3fee.top
+83ieyeyr.top
+aftervuota.cyou
+aldi.senmora.shop
+allegro-lokalnie.348t348378g3.bond
+allegro-lokalnie.fhjew623d1.cfd
+allegro-lokalnie.kup19328t0439g-f.bond
+allegro-lokalnie.prowir127190f3.bond
+allegro-lokalnie.rpo328g2.bond
+allegro.348t348378g3.bond
+allegro.fhjew623d1.cfd
+allegro.kup19328t0439g-f.bond
+allegro.prowir127190f3.bond
+allegro.rpo328g2.bond
+allegrolokalnie.21396023.cfd
+allegrolokalnie.381d.click
+allegrolokalnie.aukcja21184522.cfd
+allegrolokalnie.oferta364590.cfd
+allegrolokalnie.oferta534285.cfd
+amli-web.com
+assur.tribeignite.com.au
+asymptoticppkincob.business
+athleticisccm.business
+aukcja21184522.cfd
+bikeplanet24.shop
+brattinesstnnrapes.business
+brunozavoli.shop
+c3wrma.com
+c9tksw.com
+commentatooorsfinless.business
+contrprope.cyou
+cytoplavvsmically.business
+discounsel.cyou
+easygoing-pumpkin-960312.framer.app
+ebquvxeh.shop
+everain.my
+f3ztnp.com
+fhjew623d1.cfd
+fiaallagreegaucie.business
+fiverr-project-pro.com
+fiverr-project.help
+fiverrsupport.live
+freeinfomar.info
+gjkdkospz.lol
+glis-graiiuipipt.art
+grandmasippbilations.business
+granunativ.cyou
+hemogmulti.cyou
+home-bybiit.wixstudio.com
+home-moonpay.wixstudio.com
+homesickneszzses.business
+ilimpost.kv4ceh.casa
+immunogeqqnetic.business
+incurvatioiin.business
+ineffable-cabbage-486878.framer.app
+jaxxliberty.wixstudio.com
+k5wrnp.com
+kleinanzeigen-deutsch.id9026.info
+kundenteam26.bond
+kup19328t0439g-f.bond
+libreer.shop
+lintermik.com
+lisskom.com
+logical-shape-102091.framer.app
+lusathszi.cyou
+mudirwowse.cyou
+nav-ldgerdesktop.wixstudio.com
+oceanspamp.cyou
+oferta364590.cfd
+oferta534285.cfd
+ogrodhub.shop
+ogrodimeble.shop
+ogrodking.shop
+ogrodlux.shop
+oilnx.h9zhra.lat
+oleaginssously.business
+online.webaccessplatform.com
+osrsjagexlogin.gamingvote.com
+p7txzd.com
+patient-homeowners-951769.framer.app
+pltergisgo.com
+preannounceddkkonsie.business
+preciantir.cyou
+prowir127190f3.bond
+pulcepecch.cyou
+rowerownia24.shop
+rowerpro24.shop
+rowerworld24.shop
+rpo328g2.bond
+s8nqarf.com
+sotnmuew.shop
+speracemba.cyou
+suivi-verification.site
+sulphincal.cyou
+system-desktop.wixstudio.com
+tasseguate.cyou
+teredfgplm.click
+teredxzqaz.cloud
+terefghplm.help
+terefplmws.top
+tramlleledlunars.business
+trezosuiteapp.wixstudio.com
+twwonicities.business
+vinted.form1963.sbs
+wiadomosci-pl.xyz
+www.amli-web.com
+www.brunozavoli.shop
+x6rpsn.com
+yocartpro.com
+zusaktual.lwstatic.com
