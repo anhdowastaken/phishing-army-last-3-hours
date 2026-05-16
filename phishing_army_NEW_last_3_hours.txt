@@ -1,8 +1,126 @@
 # New records added to Phishing Army Extended Blocklist
 # Source: https://phishing.army/download/phishing_army_blocklist_extended.txt
-# Last updated: 2026-05-16 10:09:44 UTC
-# Blocklist Last-Modified: Sat, 16 May 2026 04:00:10 GMT
-# Blocklist Last-Modified (epoch): 1778904010
-# Total new records: 0
+# Last updated: 2026-05-16 13:07:16 UTC
+# Blocklist Last-Modified: Sat, 16 May 2026 10:00:10 GMT
+# Blocklist Last-Modified (epoch): 1778925610
+# Total new records: 119
 
-# No new records detected in the last check
+advancetonorix.com
+advisorweboptions.com
+aldppp.uk
+auth.verificationblueprofileverify.sbs
+azure-destination.com
+balticai.space
+balticai.store
+beamwavenet.site
+bggrontosaurstull.info
+bjelkaventreeldhav.top
+bjelstormveel.info
+breeze-hopper.com
+brisk-discover.com
+brook-travels.com
+brunetivaq.top
+cantrd.site
+cnodel.trumpedo.com
+containerboardlls.info
+coreflowgate.site
+cr8ivenest.co.uk
+crimson-sight.com
+dameroviqa.top
+dghjc.com
+divisionpassive.trailofthekings.com
+dralventiqa.top
+drevkontbreskmond.pro
+driftinultravox.digital
+driftviewbase.site
+ebork.clubemobil.com
+economsd.top
+equitydigbase.site
+erenotomotiv.net
+escondidoweekly.com
+eurocommunity-hub.com
+exclaiimatory.pics
+facelkb.com
+facewds.top
+facsbot1.top
+falqoreniq.pro
+fanqeritaq.top
+fern-breeze.com
+fhljr.com
+finavoreliq.info
+flowcoreunit.site
+fluxcorebase.site
+formflowgate.site
+fpvalone.com
+generatorscable.fpvalone.com
+glidewavenet.com
+goldenchick.digital
+gracefulfarmsanctuary.com
+gxlcb.com
+halalfoodmarketing.com
+imyypanellingsimulant.info
+innerqual.cfd
+inpost.paycore-fast.cyou
+investdigcore.site
+jexqari.shop
+jolmeriaq.info
+jorvelitaq.info
+kovana.pro
+lazy-promenade.com
+loadflowbase.site
+lofty-expedition.com
+longing.thinkaligner.com
+marbletal.securemailpath.com
+mikanassociates.com
+mojadostawa5.com
+naventriqa.top
+ocorr.advisorweboptions.com
+oficclousen.site
+oneurals.interportcorporateacademy.com
+orientalmining.com
+pathline.top
+pebble-safari.com
+pivantraqa.pro
+pizzmpmobilessnoozle.pics
+polskabittrade.pro
+polvaniq.shop
+polzano.shop
+qorvaniq.shop
+quaint-trace.com
+quantum-trek.com
+remedyboxrecording.com
+revealhel.trailofthekings.com
+rugamap.com
+rustic-venture.com
+ruvuqyo.com
+selvikbruntgreel.info
+selvionta.pro
+setvfront.escondidoweekly.com
+silqeronaq.info
+sivantreliq.info
+skyline-trip.com
+snapgaugebase.site
+spinpulsecore.site
+timorelvara365.com
+tivzano.shop
+torzavo.shop
+towardnextmoment.com
+trailofthekings.com
+trustplot-vangrd.online
+twinkling-explore.com
+umetriava24.com
+uniecnr.site
+vaultflowpro.site
+viibsk.top
+vilebrequinculture.shop
+visionaihub.space
+vorenatila24.com
+wanderluxe-journey.com
+wersacrop.site
+wirecoreunit.com
+wiwedo-visoto.info
+www.aldppp.uk
+www.gjxcyoumsb.top
+www.orientalmining.com
+xomzari.shop
+yawnedphaaarmacodynamically.info
