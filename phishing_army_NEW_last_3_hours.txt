@@ -1,8 +1,111 @@
 # New records added to Phishing Army Extended Blocklist
 # Source: https://phishing.army/download/phishing_army_blocklist_extended.txt
-# Last updated: 2026-05-23 21:47:34 UTC
-# Blocklist Last-Modified: Sat, 23 May 2026 16:00:10 GMT
-# Blocklist Last-Modified (epoch): 1779552010
-# Total new records: 0
+# Last updated: 2026-05-24 02:39:13 UTC
+# Blocklist Last-Modified: Sat, 23 May 2026 22:00:10 GMT
+# Blocklist Last-Modified (epoch): 1779573610
+# Total new records: 104
 
-# No new records detected in the last check
+01ilxpol-w5vb.iv5php.top
+72ywte3.garden
+aldi-eu.aethus.shop
+aldi-eu.bryus.shop
+aldi-eu.cyox.shop
+aldi-eu.cytox.shop
+aldi-eu.cytus.shop
+aldi-eu.cyus.shop
+aldi-eu.dravus.shop
+aldi-eu.dytox.shop
+aldi-eu.eldox.shop
+aldiuk.xandrosmart.shop
+alebilet.oferta00.lat
+alebilet.oferta03582.lat
+allegro.7238934h0122.bond
+allegro.smar9t438831024.lat
+allegrolokalnie.lokalna-oferta69011.shop
+allegrolokalnie.oferta0323850.lat
+allegrolokalnie.oferta0326850.lat
+allegrolokalnie.pl-4375674.sbs
+autenticacaocmd-gov.com
+bawazey.pro
+bestbuypl.shop
+bioracerlvip-outlets.shop
+birevents.com
+bohaimmo.com
+brenvalix.top
+broadviewdaily.xyz
+campeunpro.cyou
+cleaninsight.xyz
+clkgo.net
+cocugunyuzdili.com
+comertialofficial.xyz
+dailymediapress.com
+dannevolto.cyou
+dannypearce.com
+digital-scope.xyz
+dinovork.xyz
+discounts-pills.com
+domvero.shop
+dostawa101.shop
+dovika.shop
+enochjim.shop
+facmon.xyz
+fgvlives.xyz
+floravieyl.com
+fogdarzloti24.cfd
+funmaprecl.cyou
+generalfocus.xyz
+gvfb-connect.xyz
+homealiving.shop
+hotel.roompanel.rest
+householdtools.shop
+impalrecap.cyou
+infofrntier.xyz
+infolinehub.xyz
+jmrtools.com
+jugulbicyl.cyou
+keenfactchronicle.pro
+kickthetrend.shop
+ladospanish.com
+licheunpap.cyou
+lndtv.com
+luvienserthyn.shop
+marathistatuspro.com
+maxig.cl
+menipou.com
+mycreditqueen.com
+netwise.id
+newmonpolax24.com
+nicotdigam.cyou
+obsessivevacuum.site
+ol-xpaczka.fogdarzloti24.cfd
+olx.kup-teraz-ogloszenie-1241526.lat
+overrinfor.cyou
+pdxpride.com
+pewnafondencia.com
+poasifu2.lat
+pocztapl.fogdarzloti24.cfd
+proparinfo.cyou
+rampocalum.cyou
+retokaview.info
+sanex.wpenginepowered.com
+satisfyrunningweb.com
+scalerspace.jmrtools.com
+sd-lu.com
+selectofropsart.pro
+smartoveriew.xyz
+softignal.site
+spansdrop.templevisits.com
+stihllpl-store.shop
+stockeria.shop
+sybuk.xyz
+tenebsconf.cyou
+vaelorakioren.shop
+ventrilo.cfd
+vulepuame.autos
+waps-c7entertainment.com
+webnotice.xyz
+www.floravieyl.com
+www.maxig.cl
+xuesj.com
+zd-vwx.net
+zgesf.com
