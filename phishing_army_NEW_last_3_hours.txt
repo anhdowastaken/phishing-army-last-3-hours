@@ -1,81 +1,8 @@
 # New records added to Phishing Army Extended Blocklist
 # Source: https://phishing.army/download/phishing_army_blocklist_extended.txt
-# Last updated: 2026-05-24 10:27:02 UTC
+# Last updated: 2026-05-24 13:09:04 UTC
 # Blocklist Last-Modified: Sun, 24 May 2026 10:00:10 GMT
 # Blocklist Last-Modified (epoch): 1779616810
-# Total new records: 74
+# Total new records: 0
 
-6852go.top
-adattouttr.cyou
-affracompl.cyou
-airportcl.com
-allegro.433943201294h843.lol
-allegrolokalnie.6852go.top
-aloneftgo.cyou
-ateliersdupalais.com
-axksv.com
-axpzo.com
-axrlu.com
-axzrt.com
-colorjobservice.com
-cvocl.com
-dkypt.com
-dlfix.e2childcare.com
-el-biencomun.net
-eng-desktopsldgr.wixstudio.com
-epitotethy.cyou
-eurodld.shop
-francowebsolutions.com
-golcn.com
-gonopgibbl.cyou
-hairspotic.cyou
-hdzye.com
-includeg.baby
-incomitsis.cam
-jnhld.com
-jntct.com
-jpod844255.pro
-kazuhdislo.cyou
-lapene.jpod844255.pro
-lcflu.com
-lentochnicherv.com
-leonairsoft.com
-macrelle.jpod844255.pro
-melanchier.jpod844255.pro
-mestrdemia.cyou
-moj-panel.edgeone.app
-monoffre-prime.com
-nadalutti.jpod844255.pro
-propostrem.cyou
-radicalreporting.pro
-realstoriesdaily.com
-repredeclo.cyou
-reserve.16cushing.com
-runescapeoldschoolrs.gamingvote.com
-scorrbuffa.cyou
-sejayalode.com
-smfrsale.shop
-smlxr.com
-startds-live.wixstudio.com
-steamcommunity-cs.at
-suggesting.info
-templevisits.com
-vamorae.shop
-veiez.com
-veltravor.shop
-vinted0497.incomitsis.cam
-vinted1848.incomitsis.cam
-vinteditspancake.teconge.lat
-walmivo.shop
-wljsr.com
-www.eurodld.shop
-www.jpod844255.pro
-www.yarlina.shop
-xenlume.shop
-xnewsworld.com
-xshrr.com
-yarlina.shop
-ykzjt.com
-yourhealthyfirst.com
-yvoiceu.templevisits.com
-zdqhy.com
+# No new records detected in the last check
