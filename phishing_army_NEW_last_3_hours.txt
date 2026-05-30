@@ -1,8 +1,122 @@
 # New records added to Phishing Army Extended Blocklist
 # Source: https://phishing.army/download/phishing_army_blocklist_extended.txt
-# Last updated: 2026-05-29 22:24:14 UTC
-# Blocklist Last-Modified: Fri, 29 May 2026 16:00:09 GMT
-# Blocklist Last-Modified (epoch): 1780070409
-# Total new records: 0
+# Last updated: 2026-05-30 02:32:03 UTC
+# Blocklist Last-Modified: Fri, 29 May 2026 22:00:08 GMT
+# Blocklist Last-Modified (epoch): 1780092008
+# Total new records: 115
 
-# No new records detected in the last check
+0-ll1xpl-sasa7-web.d6rbpf.cfd
+1587wka.hair
+6003a140-c051-4c7f-b023-c5cebffc9953-00-2kgin2kr2dn2r.riker.replit.dev
+a2.d7expt.casa
+allegrolokalinie.pl-18423.sbs
+allegrolokalinie.pl-478892.sbs
+allegrolokalnie.oferta23948ubdmso3958264958.shop
+allegrolokalnie.oferta426142.cfd
+allegrolokalnie.pl-d-ogloszenie-id-542385.shop
+allegrolokalnie.pljzknsmxoipp0.lat
+allegrolokalnie.wiosna-2026-735214.click
+aoeygkwcfzrq.021110f6-5146-4ad7-abf0-b91adf8d5ff3.click
+apathstock.cyou
+assessoriabritto.com
+bafkreic4o6hrhib7kcempc2xv6wbzs7b34zzttfsi4uytekxuuzfzfe2ki.ipfs.inbrowser.link
+baglino.shop
+baiirejec.cyou
+bradesco.validaracessospj.digital
+bridgeportprimerooms.com
+carloscox.shop
+colmecrepi.cyou
+corcel.comagros.my
+cr3s3-con-tu-apollo.gamer.gd
+diaboripro.cyou
+disbrchiro.cyou
+discountoutlet-polska.shop
+drmax.clarel.top
+ecoprulse.shop
+ecotoursturkey.com
+emigrspern.cyou
+enhassist.digital
+firepdisum.cyou
+fmqby.buzz
+france-sire.com
+fredds.comagros.my
+glsfirm.top
+handbagharbor.shop
+helped-contact-coinbase.com
+hostingo.sviluppo.host
+hub-ledgr-strt-com.framer.media
+infolaventrion.pro
+inpolst.secureroot4382.cyou
+jyskfurnitureok.shop
+jyskfurnituretksh0p.shop
+kjs3jkdj.eu
+kleinanzeigen-deutsch.id632449.info
+klelnanzeigen-deutch.4f7eua.cfd
+klelnanzeigen-deutch.orangecountycraneservice.com
+ldgrcomstart.framer.media
+lesavoi.com
+livcora.shop
+luzmarabierto.com
+muibmjcyheb.021110f6-5146-4ad7-abf0-b91adf8d5ff3.click
+netempresachat.online
+netempresas-negocios.online
+netempresas-negocios.site
+nexopulseravox.top
+nourmira.com
+novaqpixel.shop
+o-l-x-1351.com
+official-startio-legr.framer.media
+ol-xpaczka.pervoyalineatru.cyou
+ol-xpaczka.secureroot4382.cyou
+onbankinginternet.app
+opensfhistory.org
+otisgreen.shop
+otllo1mivo7.d6rbpf.cfd
+paczzka83489723.cfd
+panniurano.cyou
+pargoequip.cyou
+pauliske.shop
+pervoyalineatru.cyou
+pge-ebok.013894892198101-0.com
+pobraniepoctowaze24.com
+pocztapl.pervoyalineatru.cyou
+pocztapl.secureroot4382.cyou
+recepmoral.cyou
+ripunlegav.cyou
+rvxdhve.021110f6-5146-4ad7-abf0-b91adf8d5ff3.click
+sdweedandpest.com
+site-042343e05f1b.mypreview.site
+slohhthfulnesses.info
+smapyuwvv.021110f6-5146-4ad7-abf0-b91adf8d5ff3.click
+somewsetti.cyou
+sportclipsjobs.com
+started-enledgir.framer.media
+stopmotor.com
+strausssale-eu.com
+stuterifom.cyou
+subissolfe.cyou
+suportebritto.com
+swift-taxonomy-353485.framer.app
+t6.es9xly.top
+techsvibe.shop
+tggiueirl.021110f6-5146-4ad7-abf0-b91adf8d5ff3.click
+trasucomis.cyou
+tvbqojt.021110f6-5146-4ad7-abf0-b91adf8d5ff3.click
+urbanstreamorax.com
+velorantivora24.com
+veltraxis.icu
+vinted.safe-check.one
+vinted.team-veriflcation.com
+vip.gaokao.icloudwisdom.com
+vjykycbrrl.021110f6-5146-4ad7-abf0-b91adf8d5ff3.click
+vlkvh.com
+wartoszak.net
+www.assessoriabritto.com
+www.ecoprulse.shop
+www.france-sire.com
+www.novaqpixel.shop
+www.sportclipsjobs.com
+www.techsvibe.shop
+x.diplomsssite.com
+yzkzh.021110f6-5146-4ad7-abf0-b91adf8d5ff3.click
+zs.gebrauchte.at
