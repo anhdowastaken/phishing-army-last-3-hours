@@ -1,6 +1,6 @@
 # New records added to Phishing Army Extended Blocklist
 # Source: https://phishing.army/download/phishing_army_blocklist_extended.txt
-# Last updated: 2026-06-23 19:52:15 UTC
+# Last updated: 2026-06-23 22:08:17 UTC
 # Blocklist Last-Modified: Tue, 23 Jun 2026 16:00:10 GMT
 # Blocklist Last-Modified (epoch): 1782230410
 # Total new records: 0
