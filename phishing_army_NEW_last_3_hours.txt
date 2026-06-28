@@ -1,85 +1,8 @@
 # New records added to Phishing Army Extended Blocklist
 # Source: https://phishing.army/download/phishing_army_blocklist_extended.txt
-# Last updated: 2026-06-28 11:01:27 UTC
+# Last updated: 2026-06-28 13:22:45 UTC
 # Blocklist Last-Modified: Sun, 28 Jun 2026 10:00:12 GMT
 # Blocklist Last-Modified (epoch): 1782640812
-# Total new records: 78
+# Total new records: 0
 
-2026summerclearance.com
-30921574214845.shop
-aldi-usa.akbase.shop
-aldideals.alwaysnest.shop
-aldideals.choicebridge.shop
-aldideals.dailypact.shop
-aldideals.faithport.shop
-aldideals.frankfield.shop
-aldideals.honestbay.shop
-aldideals.isdrel.shop
-aldideals.kelvado.shop
-aldideals.lavdri.shop
-aldideals.livdax.shop
-aldideals.mavdok.shop
-aldideals.wernak.shop
-aldideals.xarnel.shop
-aldideals.xelqari.shop
-aldimall-uk.com
-aldimart.frosel.shop
-aldimart.fynsek.shop
-aldimart.galdri.shop
-aldimart.gasken.shop
-aldimart.harnqo.shop
-aldimart.indrel.shop
-aldimart.ivdren.shop
-aldius-market.fahionprinwated.com
-aldius.moxpantry.shop
-aldiusa.aevoriccart.shop
-aldiusa.xqzramart.shop
-aldiusa.ztrqpmart.shop
-aldivaluemarket.com
-alineafr.com
-amarthome.shop
-antipspazi.cyou
-apexlagyer.shop
-b54.i4iyxt.cfd
-betaiquind.cyou
-biezacezplacu.top
-cinema-city.online
-city-cinema.site
-colleappra.cyou
-conscientious-heptagon-576683.framer.app
-deal-source.de
-deichmannoutletsde.com
-fast-changes-971790.framer.app
-fifaofficials.com
-i4iyxt.cfd
-mobiles.aservicepos-b.xyz
-morepcynip.cyou
-notinocz.shop
-ofertello.shop
-olx-9564371.grsfranchisedevelopment.com
-onlinesupermarket2026.com
-paycore-24.cfd
-rational-experiences-382422.framer.app
-recenimbar.cyou
-respugesti.cyou
-rinchriemp.cyou
-rinsoleggi.cyou
-rousebotte.cyou
-s-g-espace02.bolt.host
-s-plata.online
-sallyhomespace.com
-scompneoli.cyou
-shop-pulse.de
-shopaldi-us.suboardprebint.com
-solveta.lovable.app
-swiftnesth.shop
-tempopanar.cyou
-thecedarline.shop
-thefalvora.shop
-theilvora.shop
-thesilvermeadow.shop
-trasawoodl.cyou
-upzjmrjc.shop
-wazny-pilny.cfd
-wiescizaleji.info
-www.apexlagyer.shop
+# No new records detected in the last check
