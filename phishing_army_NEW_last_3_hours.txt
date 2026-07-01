@@ -1,8 +1,115 @@
 # New records added to Phishing Army Extended Blocklist
 # Source: https://phishing.army/download/phishing_army_blocklist_extended.txt
-# Last updated: 2026-06-30 22:11:17 UTC
-# Blocklist Last-Modified: Tue, 30 Jun 2026 16:00:10 GMT
-# Blocklist Last-Modified (epoch): 1782835210
-# Total new records: 0
+# Last updated: 2026-07-01 02:49:12 UTC
+# Blocklist Last-Modified: Tue, 30 Jun 2026 22:00:12 GMT
+# Blocklist Last-Modified (epoch): 1782856812
+# Total new records: 108
 
-# No new records detected in the last check
+3i8ie.hair
+aecmanagement123.top
+aldishop.avloria.shop
+aldius-store.oklahomabalti.com
+allegro.ofeta-19733.sbs
+allegro.ofeta-30503333.sbs
+allegrolokalnie.67743.lat
+allegrolokalnie.81076544225.xyz
+allegrolokalnie.85742.lat
+allegrolokalnie.letnie-okazje238745715.cyou
+allegrolokalnie.letnie-okazje746132786.cyou
+allegrolokalnie.lokalne-ofeta7927.cfd
+allegrolokalnie.lqn49nm392ns.sbs
+allegrolokalnie.oferta6710823919371027.shop
+allegrolokalnie.oferta816301730272937292.xyz
+allegrolokalnie.ofeta-19733.sbs
+allegrolokalnie.ofeta-30503333.sbs
+allegrolokalnie.pl-id849234.cyou
+allegrolokalnie.pl76703.top
+allegrolokalnie.smart-92562.cfd
+allegrolokalnie.y94182.cyou
+allictosol.cyou
+archbt.com
+arramunave.cyou
+barbarahomespace.com
+c-a-espace01.bolt.host
+ddps.vividvibess.shop
+disfatopco.cyou
+disiotrans.cyou
+dncshoes.co
+dovik.shop
+epaoig.gov
+evanoz.shop
+faceit-redirecting.com
+finance97-impedit15.sbs
+front-apps-hth.com
+giamstoregt.com
+grupopgo.com
+guiaemfoco.com.br
+harslrifor.cyou
+ianausten.com
+icloudservice.mailsecu.co
+indescope.site
+inpolst.al2k1s.cfd
+inpolst.al2k1s.sbs
+iyskeud.shop
+jarekjanosz.info093872.pl
+julit1x.com
+julita1.com
+julita137.com
+kafadancafe.com
+karllagerfeld.beer
+krixavolta.com
+kuaffor.com
+mrelay-mon-planning.com
+nexarilvo.com
+nextgenerationdigest.com
+notice.hnsrbm.com
+ofeta-19733.sbs
+ofeta-30503333.sbs
+olx.ofeta-19733.sbs
+olx.ofeta-30503333.sbs
+olx.orridino.cfd
+orbimap.site
+orivelanth.com
+patripalin.cyou
+planetaplim.com.br
+playld-auth-mimzy.soundandshinesolutions.cv
+provosuper.cyou
+pyzsp.com
+qtfutwdz.shop
+rebenidrat.cyou
+ritualsonline.shop
+rjmibprn.shop
+shoesoutletstore.com
+shop-choice.de
+solanalchi.cyou
+spesaleala.cyou
+standegger.com
+supernoviyd.com
+tejechainlin.help
+terefhsyap.click
+terehfjlap.yoga
+tereqhxwna.luxe
+tereqhxwna.yoga
+tereqpdjmn.shop
+tererbxpou.beer
+tererbxpou.fit
+tererbxpou.help
+tererjdvla.luxe
+tererjdvla.yoga
+terevmlkri.help
+terezpjqaf.fit
+texelxmqra.help
+tjylhp.com
+track-mondpack.com
+transferistanbulairports.com
+ulys-mes-trajets.com
+usaldi-sale.aclturalwowear.com
+ver-acesso-530183.v6.rocks
+vipspecialoffers.shop
+vortexlabs.shop
+w-update-server3092.com
+weryplace.onl
+wetorx.com
+xn--fiqx4b39po3g7l1ayg1b.com
+xneyx.com
+zalyzi63.ru
