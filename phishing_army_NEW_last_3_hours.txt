@@ -1,86 +1,8 @@
 # New records added to Phishing Army Extended Blocklist
 # Source: https://phishing.army/download/phishing_army_blocklist_extended.txt
-# Last updated: 2026-07-05 11:00:28 UTC
+# Last updated: 2026-07-05 13:16:44 UTC
 # Blocklist Last-Modified: Sun, 05 Jul 2026 10:00:09 GMT
 # Blocklist Last-Modified (epoch): 1783245609
-# Total new records: 79
+# Total new records: 0
 
-acc-laceextenson.wixstudio.com
-accamdisal.cyou
-affidforce.cyou
-agghitors.cyou
-airaaldii.shop
-aldihubx.com
-aldiweeklydeals.com
-bafkreiglpn3437jljvdrwhq3veggfvmsiejrdaaz7m2c2s5tqmhbdcwnl4.ipfs.inbrowser.link
-begin-desktoplive.wixstudio.com
-bexuno.shop
-biegafundenza.sbs
-bridges-applives.wixstudio.com
-bridgetrrzrs.wixstudio.com
-briqustira.cyou
-broktu.shop
-cespieiacu.cyou
-circualogi.cyou
-coin-baseapps.wixstudio.com
-credit-securipass.xyz
-cudkiremix.cyou
-desktops-lives.wixstudio.com
-doz.europris-no.help
-dozs.modnakieckasale.sbs
-eng-exods-wlt.wixstudio.com
-eobuwiestore-pl.com
-fualgeronik.info
-fuskphti.shop
-grivok.shop
-gsewatdv.shop
-gstalco.shop
-guadamolot.cyou
-homestartstrexorcdn.wixstudio.com
-imporaselg.cyou
-interpenet.cyou
-iostart-trezon.wixstudio.com
-jytezioiva.autos
-kromel.shop
-learn-trezsuite.wixstudio.com
-ledzer-liveapps.wixstudio.com
-mailsecu.co
-misalmayfl.cyou
-modnakieckasale.sbs
-novasvphere.shop
-open-desktopapp.wixstudio.com
-oviciprofi.cyou
-page-suiteweb.wixstudio.com
-pl.modnakieckasale.sbs
-platform-ledzrcdn.wixstudio.com
-portal36-agency-metaportalemail.com
-prestigeapart.com
-qurdanelio.info
-ritualsofficial.shop
-sale-gonser.sbs
-sell-ukaldi.cadsualblouses.com
-semicelett.cyou
-siroamolten.pro
-snavik.shop
-ssostarts-trezocdn.wixstudio.com
-stalconar.club
-starting-trezoncdn.wixstudio.com
-suiteapps-trejzo.wixstudio.com
-suiteapps-trexzos.wixstudio.com
-teieyhnmkl.fit
-trexiosuiteapps.wixstudio.com
-trexors-io-startapps.wixstudio.com
-trezur-bridge.wixstudio.com
-view-livledgre.wixstudio.com
-wczasynamazurach.com
-weeeeeeebsuppoort495858686969939484854.s3.eu-central-3.ionoscloud.com
-willow-fabric.shop
-wmq2toferta.lat
-wpoprzekwroclawiapopoludniemszum.top
-wwhaorr.shop
-www.credit-securipass.xyz
-www.stalconar.club
-www.wwhaorr.shop
-wydawnictwoelemen.shop
-yiddiunjes.cyou
-zenithfblow.shop
+# No new records detected in the last check
