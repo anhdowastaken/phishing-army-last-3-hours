@@ -1,8 +1,117 @@
 # New records added to Phishing Army Extended Blocklist
 # Source: https://phishing.army/download/phishing_army_blocklist_extended.txt
-# Last updated: 2026-07-04 21:51:46 UTC
-# Blocklist Last-Modified: Sat, 04 Jul 2026 16:00:08 GMT
-# Blocklist Last-Modified (epoch): 1783180808
-# Total new records: 0
+# Last updated: 2026-07-05 02:28:40 UTC
+# Blocklist Last-Modified: Sat, 04 Jul 2026 22:00:09 GMT
+# Blocklist Last-Modified (epoch): 1783202409
+# Total new records: 110
 
-# No new records detected in the last check
+4hi4j3j.skin
+9239h9459.shop
+accennondi.cyou
+alebilet.pl-92273.shop
+alebilet.wmq2toferta.lat
+allegro-lokalnie.9239h9459.shop
+allegro.077800j45.lol
+allegro.9239h9459.shop
+allegro.lokalna-884456.sbs
+allegrolokalnie.lokalna-884456.sbs
+allegrolokalnie.oferta0239600.cfd
+allegrolokalnie.oferta81000927382611120.shop
+allegrolokalnie.ofeta-lokalna65915.shop
+allegrolokalnie.rezerwacja5274.sbs
+amuyotallo.cyou
+b73223085-49c6-4dca-a2f1-4722014079bf.edgeone.dev
+bell-aroma.com
+blonko.shop
+borrainfor.cyou
+bromik.shop
+buffywehrli.shop
+calcipresc.cyou
+colymcapot.cyou
+darvipreim.cyou
+direcretas.cyou
+disticapta.cyou
+dortise.com
+drimko.shop
+easyoffer.shop
+eobuwie.top
+fjafgqpm.shop
+flixstash.com
+frgenrl1.com
+frnca137.com
+frqana1.com
+gardendodomu.shop
+grughdeliv.cyou
+hogmathree.cyou
+jg493kf0wld.shop
+jysk-meble.shop
+kgzavyin.shop
+lokalna-884456.sbs
+lunvica.shop
+mastevbcs.com
+mentbyte.site
+misurovuli.cyou
+nasanantil.cyou
+netcredlt-support.pl
+nobiware.sbs
+notice.umaiban.com
+oiutrwb.icu
+olx-pl.saddwer.icu
+olx.lokalna-884456.sbs
+paczka.adfvevr.icu
+penondesie.cyou
+phaslevel.site
+podslychanezparteruobokpiekarni.pro
+prespverni.cyou
+proemprede.cyou
+rampipinne.cyou
+reserve.xingchuanxiang.com
+s55-check1744.lat
+saddwer.icu
+skjgroi43oq.shop
+skortan.shop
+socialsportsmedia.com
+sportsvideo24.com
+stalco-nar.club
+stalco24pl.shop
+suciver.cc
+teatre-billets-my.com
+terecwmfju.luxe
+teregqmrzy.club
+teregypxsl.club
+teregypxsl.wiki
+terehpqgld.help
+terehpqgld.wiki
+terepdclws.top
+tereqvbnoy.top
+tereqwomlu.club
+tereqwomlu.shop
+tereqwomlu.yoga
+tereqyjsmu.club
+tereqyjsmu.yoga
+tererbwqna.work
+tererfhtpb.luxe
+tererumqpi.click
+tererumqpi.top
+teretwbzrk.help
+terevkpsma.top
+terexqylpa.click
+tereyaxhqn.click
+tereyaxhqn.help
+terezkvxan.club
+terezlxkva.club
+trana-node.site
+ucylmenl.shop
+uefa46-dpimi9v6dp2i.edgeone.dev
+velatrend.shop
+venermoci.cyou
+virevella.shop
+wep-open.wpdevcloud.com
+wpoprzeklodzicieplegopopoludnia.top
+www.buffywehrli.shop
+www.stalco-nar.club
+www.velatrend.shop
+www.zakladyboleslawieczone-pl.shop
+zakladyboleslawieczone-pl.shop
+zfgjg.com
+zillacombi.cyou
