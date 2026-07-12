@@ -1,57 +1,8 @@
 # New records added to Phishing Army Extended Blocklist
 # Source: https://phishing.army/download/phishing_army_blocklist_extended.txt
-# Last updated: 2026-07-12 13:03:33 UTC
+# Last updated: 2026-07-12 15:52:55 UTC
 # Blocklist Last-Modified: Sun, 12 Jul 2026 10:00:09 GMT
 # Blocklist Last-Modified (epoch): 1783850409
-# Total new records: 50
+# Total new records: 0
 
-animalquivole.com
-busyiline.xyz
-caterschio.cyou
-centrumroweroweco.shop
-cerebquiet.cyou
-defateleva.cyou
-dkjzz.com
-epaoig.gov
-faerwin.com
-feditmescu.cyou
-fesyvio.pro
-fifashijiepaimingyilanbiaoquanbuduiwu.lol
-flaht.cfd
-gastrsavou.cyou
-giantbwhy.ukatastudio.com
-goldreels.us
-gsmakers.com
-invinacqui.cyou
-iron-belt-pl.shop
-jyfikoo.com
-merchant.30581764.shop
-misogcentu.cyou
-podslyszanezpralkiwpiwnicznejobokklatki.pro
-polskanieoczywistadlawieluatrakcji.info
-polskanieplanowanawkazdymkrokunaprzod.info
-polskawjednejztychzwyklychchwil.info
-profinovapital.com
-propiintav.cyou
-radaarulfikry.rdmmadrasahonline.com
-refined-look.shop
-riaccpseud.cyou
-runklsmamm.cyou
-rytsx.com
-sawilorugeimr.info
-smartshield.sakinainstitute.com
-spacetricgroup.com
-spropcommu.cyou
-standegger.com
-statusoperacja.pl
-steamqr.site
-steanncomnnity.ru
-sunsowerole.com
-trafficflowtm.com
-tugula.world
-vitalbegol.cyou
-xn--fiqx4b39po3g7l1ayg1b.com
-your-sale-setup.help
-zokienkaodpiwnicyobokstarejszafy.top
-ztegoporankawkrakowienaprzeciwko.top
-ztegorankagdzieswkrakowiezaraz.top
+# No new records detected in the last check
