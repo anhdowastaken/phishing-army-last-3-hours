@@ -1,8 +1,120 @@
 # New records added to Phishing Army Extended Blocklist
 # Source: https://phishing.army/download/phishing_army_blocklist_extended.txt
-# Last updated: 2026-07-15 21:52:04 UTC
-# Blocklist Last-Modified: Wed, 15 Jul 2026 16:00:10 GMT
-# Blocklist Last-Modified (epoch): 1784131210
-# Total new records: 0
+# Last updated: 2026-07-16 01:58:46 UTC
+# Blocklist Last-Modified: Wed, 15 Jul 2026 22:00:10 GMT
+# Blocklist Last-Modified (epoch): 1784152810
+# Total new records: 113
 
-# No new records detected in the last check
+1gf2t3.skin
+4fizjosp.shop
+5j8y0h.hair
+6w8e0h.hair
+9000-firebase-ree-1781589806336.cluster-l2bgochoazbomqgfmlhuvdvgiy.cloudworkstations.dev
+acervammal.cyou
+algondiner.cyou
+allegro.252352352hh.click
+allegro.4912919gg.qpon
+allegro.id-87w674nb.lat
+allegro.nr-23843nfsd43.club
+allegro.nr-93284ksd43.click
+allegro.oferta-938453ns74.club
+allegro.smart8342819gg.best
+allegrolokalnie.354304.lat
+allegrolokalnie.924029.lat
+allegrolokalnie.928430.lat
+allegrolokalnie.9310182.sbs
+allegrolokalnie.948182.sbs
+allegrolokalnie.9487528.lat
+allegrolokalnie.bezpiecznatransakcja86784.lat
+allegrolokalnie.id-87w674nb.lat
+allegrolokalnie.lokalna-8398.sbs
+allegrolokalnie.lokalna-98948.sbs
+allegrolokalnie.nr-23843nfsd43.club
+allegrolokalnie.nr-93284ksd43.click
+allegrolokalnie.oferta-938453ns74.club
+allegrolokalnie.pl-oferta-49735.online
+allegrolokalnie.pl-oferta46327.sbs
+appstarts-trexxor.wixstudio.com
+booking.yuantai668.com
+cassianwhitlock.com
+co-labinteriors.com
+colvearyani.pro
+disvipreap.cyou
+divulincap.cyou
+elsewunthr.cyou
+finance99-consectetur39.sbs
+finisz.flanaholic.com
+flashreportupdate.pro
+form.bjdjgj.com
+form.cdmmb.com
+form.zhuzao518.com
+getriskmadeinwarsaw.shop
+gift86.com
+guideinf.hfffamily.co.nz
+gulsenstore.com
+haciabdullahsaraymutfagi.net
+homlamark.homes
+id-87w674nb.lat
+ideabeyrry.shop
+incroimbus.cyou
+index-suitesso.wixstudio.com
+infiorinvi.cyou
+informationsante.com
+ingroockst.cyou
+intro-online-exodu.wixstudio.com
+inveninart.cyou
+io-apps-trexorcdn.wixstudio.com
+ioapp-starts-trezons.wixstudio.com
+jnvkelcdsmzz.com
+kapitall.info
+kopoloskjeroapdsoksf.site
+krlevmcdswwz.com
+liveapp-cloud.wixstudio.com
+manageaccountonline.info
+mdj9gpv.shop
+menagzizan.cyou
+metamask-info-deskdeskdeskdeskdeskdeskdeskdeskdeskdeskmail.net.ph
+necrorinve.cyou
+nr-23843nfsd43.club
+nr-93284ksd43.click
+nurysnamovit.com
+oferta-938453ns74.club
+oficinavirtual.banbit.pe.peruvian.lat
+oibuervndlsmz.com
+olx.924029.lat
+olx.id-87w674nb.lat
+olx.my-paycore.shop
+olx.nr-23843nfsd43.club
+olx.nr-93284ksd43.click
+olx.oferta-938453ns74.club
+omniwlink.shop
+oordeersii.lat
+openinpolnd.store
+openinpolska.store
+poczta-pl.kreoqv.icu
+pre-arrlval-guest.com
+prefix-trezo-io.wixstudio.com
+pub-4106757ffadd4696bfa963a0b6955e4f.r2.dev
+pub-f61d5eb08b6f461eb0310ed71224f01c.r2.dev
+pumpfun-celebration.org
+reebok-pl.com
+riskmadeinwarsaw.live
+sbranmedio.cyou
+securiaideagricole.com
+service.spk-pushtan.info
+sostarts-trezonav.wixstudio.com
+speedycube.net
+startio-trezrapps.wixstudio.com
+sticksekermakinasi.com
+suitecdn-trezenapp.wixstudio.com
+trexors-io-startappc.wixstudio.com
+trexr-io-startapp.wixstudio.com
+vesewae.pro
+www.allegrolokalne.894674754765.click
+www.allegrolokalnie.pl-60459034.click
+www.kapitall.info
+www.omniwlink.shop
+www.reebok-pl.com
+xsslt.com
+ywnjb.hfffamily.co.nz
+zolmira.cfd
