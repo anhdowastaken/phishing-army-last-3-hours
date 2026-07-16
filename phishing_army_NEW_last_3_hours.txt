@@ -1,8 +1,107 @@
 # New records added to Phishing Army Extended Blocklist
 # Source: https://phishing.army/download/phishing_army_blocklist_extended.txt
-# Last updated: 2026-07-16 10:51:16 UTC
-# Blocklist Last-Modified: Thu, 16 Jul 2026 04:00:09 GMT
-# Blocklist Last-Modified (epoch): 1784174409
-# Total new records: 0
+# Last updated: 2026-07-16 13:27:29 UTC
+# Blocklist Last-Modified: Thu, 16 Jul 2026 10:00:08 GMT
+# Blocklist Last-Modified (epoch): 1784196008
+# Total new records: 100
 
-# No new records detected in the last check
+097413-coinbase.com
+25sfjkgjdofijgdfgjfdgjoifd.site
+27sfjkgjdofijgdfgjfdgjoifd.site
+29dfgjfgjdffdgjdfgjfd.site
+4fizstore.shop
+8593-coinbase.com
+alebilet.shop-067891.online
+alert.hbkj17.com
+allegro.3291200bb.pl
+allegrolokalnie.628d6s8d.click
+allegrolokalnie.71821.top
+allegrolokalnie.oferta981762.com
+allegrolokalnie.pl-328838.sbs
+allegrolokalnie.pl-oferta3423988193.shop
+allegrolokalnie.pl-oferta6362782.click
+allegrolokalnie.pl-oferta658.shop
+analyse-coinbase.net.ph
+apartamentyluks.com
+atikteklifitopla.com
+avenspolpros.digital
+avora-news.xyz
+bionlayer.site
+booking.cqixy.com
+borqika.vip
+calumyi.com
+chilingquardip2ws2pw2cxn2jai22ksw39ek3qa.oic-ethiopia.org
+cimengrech.cyou
+cocodoo.pro
+creditsecuripassaide-support.com
+diadosarti.cyou
+dilivunfor.cyou
+ecoquestgroup.pro
+epicodepop.cyou
+erotepicch.cyou
+even7.biuro-pilny.cfd
+events-performance.site
+extractooor.pl
+fermuyoja.cyou
+finance97-quia18.sbs
+finance99-odio77.sbs
+finance99-qui78.sbs
+fitzut.top
+flanaholic.com
+folclsaleg.cyou
+forfizjopl.shop
+fourfizjo.shop
+goaseg.top
+gofizjo.shop
+hausblicker.com
+hazzel.vip
+highlightsinistanbulworkshops.com
+hoyenchina.com
+hsbc.org.ph
+infos.junan-international-group.com
+instealloc.cyou
+intraprese.cyou
+kimajattejiver.com
+kiospkllaidodidp.site
+kowball.shop
+livingplancentral.world
+maamshutch.cyou
+metamask-info-deskdeskdeskdeskdeskdeskdeskdeskdeskinboxsupport.net.ph
+metamask-info-deskdeskdeskdeskdeskdeskdeskdeskdeskservicemail.net.ph
+moja-paczka.ieowbaww.icu
+myretune.com
+nordvexa.shop
+oauyuxmi.shop
+ori428def.lat
+parurcellu.cyou
+polbrukfargo.com
+preoru.top
+pzn-tickets.com
+qiresnorowit.com
+qurefkei.click
+renovlecyt.cyou
+reterdepre.cyou
+ritenaddim.cyou
+ritualssale.pl
+satiadispr.cyou
+schiutabac.cyou
+semioarmeg.cyou
+settallupservices.com
+smalt-handbag.shop
+sprawnykapitewnik-pl.com
+stasicampi.cyou
+syqesai.pro
+tkask.top
+transinven.cyou
+unitecarto.cyou
+unlira.top
+vermilion-belt.shop
+vybajie.pro
+wavefieldview.info
+wojs.mc2it.shop
+www.creditsecuripassaide-support.com
+www.kowball.shop
+www.settallupservices.com
+xifisao.pro
+youthraddi.cyou
+zericube.site
