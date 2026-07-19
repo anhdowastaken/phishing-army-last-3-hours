@@ -1,61 +1,8 @@
 # New records added to Phishing Army Extended Blocklist
 # Source: https://phishing.army/download/phishing_army_blocklist_extended.txt
-# Last updated: 2026-07-19 13:01:34 UTC
+# Last updated: 2026-07-19 15:50:52 UTC
 # Blocklist Last-Modified: Sun, 19 Jul 2026 10:00:09 GMT
 # Blocklist Last-Modified (epoch): 1784455209
-# Total new records: 54
+# Total new records: 0
 
-2j3h77w.hair
-6y7e0t.hair
-allegrolokalnie.hhttl.sbs
-allegrolokalnie.p89oferta2946sye289.forum
-allegrolokalnie.pl-oferta0817291020938101.click
-auth-coinbase.com
-avendo.lovable.app
-baesdr468-kyuilsae591.colossalremote.su
-bbjcb.com
-borborygmuoa.pro
-cedekonicot.cyou
-coinbaseassistance.help
-commesconc.cyou
-cozoxu.world
-echoitifar.cyou
-exterhymno.cyou
-gingham-bag-pl.shop
-gubak5248.eu.cc
-homalmark.homes
-impiblemi.cyou
-isofrguald.cyou
-japanluxury.shop
-jrtewnbh.com
-korinapo.lovable.app
-loginauth2-coinbase.ph
-lubilea.pro
-microsoftai.pl
-neciincav.cyou
-nimbusroot.org
-olx-pl.jioeqio.icu
-ostrunz.casa
-percehoide.cyou
-pluridiscl.cyou
-porzadek-w-biurze.lovable.app
-premiumhome.shop
-prolidisgr.cyou
-pupidimmel.cyou
-queenisote.cyou
-repoira.lovable.app
-sbolztange.cyou
-sessions-icloud.com
-shengli-machinery.com
-signicarme.cyou
-smykbabyoutlets.com
-syjxxt.com
-uptracoron.cyou
-vermilion-boots.shop
-vitalminuz.cyou
-vqqartlh.shop
-whitden.com
-www.japanluxury.shop
-www.jrtewnbh.com
-www.premiumhome.shop
-www.smykbabyoutlets.com
+# No new records detected in the last check
