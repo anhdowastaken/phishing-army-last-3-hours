@@ -1,8 +1,70 @@
 # New records added to Phishing Army Extended Blocklist
 # Source: https://phishing.army/download/phishing_army_blocklist_extended.txt
-# Last updated: 2026-07-25 10:22:07 UTC
-# Blocklist Last-Modified: Sat, 25 Jul 2026 04:00:09 GMT
-# Blocklist Last-Modified (epoch): 1784952009
-# Total new records: 0
+# Last updated: 2026-07-25 13:08:43 UTC
+# Blocklist Last-Modified: Sat, 25 Jul 2026 10:00:08 GMT
+# Blocklist Last-Modified (epoch): 1784973608
+# Total new records: 63
 
-# No new records detected in the last check
+3030k.com
+37to.com
+70xincome.com
+absbulente.cyou
+account699f91c800f0.co
+acousticwallaby.autos
+admirsatel.cyou
+allegro.lokalna-ofera9123491295.shop
+allegrolokalnie.lokalna-ofera9123491295.shop
+armaghonline.com
+attire4hire.com
+beggadimen.cyou
+beijingqilu.com
+bhb.slazyget.com
+blt668.com
+formebstudio.shop
+freedomoflifestyle.com
+gamboge-wimple.shop
+google88.vip
+gvauk.com
+home4reptiles.com
+hsbc-contact.center
+iecommerceb2b.com
+isabelline-tabard.shop
+jiaoshui5.com
+lokalna-ofera9123491295.shop
+maisonhjluxe.shop
+metopimboc.cyou
+mirmezimba.cyou
+muchehabil.cyou
+nochaparis.com
+olx.lokalna-ofera9123491295.shop
+pl-518517.lat
+proctologotijuana.com
+protectnoticeinternet.com
+qex.slazyget.com
+qy-zhineng.com
+r4wk7tn.skin
+regioindra.cyou
+retroramei.cyou
+ric.slazyget.com
+roncoarthr.cyou
+secretheartbeat.com
+sellseasonal.com
+seromspruz.cyou
+shop-eobuwie.shop
+sintelicen.cyou
+slazyget.com
+spiandonna.cyou
+spoeteulog.cyou
+spondilolistezis.com
+subscriptionweb.servicepayment.click
+teveluxon.shop
+tevewavro.help
+the-word-kitchen.com
+thermaesyllaspa-hotel.com
+tianyaheji888.com
+unanna.com
+utl.slazyget.com
+victorspanner.com
+vinted.92748061.lat
+xpk.slazyget.com
+zedelivery.food
