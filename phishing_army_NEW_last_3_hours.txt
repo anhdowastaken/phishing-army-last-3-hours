@@ -1,8 +1,108 @@
 # New records added to Phishing Army Extended Blocklist
 # Source: https://phishing.army/download/phishing_army_blocklist_extended.txt
-# Last updated: 2026-07-25 21:46:43 UTC
-# Blocklist Last-Modified: Sat, 25 Jul 2026 16:00:14 GMT
-# Blocklist Last-Modified (epoch): 1784995214
-# Total new records: 0
+# Last updated: 2026-07-26 02:06:40 UTC
+# Blocklist Last-Modified: Sat, 25 Jul 2026 22:00:08 GMT
+# Blocklist Last-Modified (epoch): 1785016808
+# Total new records: 101
 
-# No new records detected in the last check
+9042117632.cfd
+acephdisgr.cyou
+adopepenna.cyou
+allegro.12301028g.qpon
+allegro.12909128.qpon
+allegro.2131239129ghgh.qpon
+allegro.239423812jh6.click
+allegro.9483434h3.lat
+allegro.mdsmas882199.xyz
+allegro.nr-23843idms23.click
+allegro.oferta19922.cfd
+allegro.prywant82391111g.xyz
+allegrolokalinie.pl-984952.sbs
+allegrolokalnie.0oferta92847zcw299.forum
+allegrolokalnie.632354fg.top
+allegrolokalnie.68472.lat
+allegrolokalnie.79057.top
+allegrolokalnie.89623.top
+allegrolokalnie.9042117632.cfd
+allegrolokalnie.lokalna-93012.sbs
+allegrolokalnie.nr-23843idms23.click
+allegrolokalnie.oferta19922.cfd
+allegrolokalnie.oferta673367xvsx25.forum
+allegrolokalnie.pl-oferta-komputer-apple-mac-studio-m4-max.lat
+allegrolokalnie.pl-oferta189572.click
+allegrolokalnie.pl-oferta828012479.click
+allegrolokalnie.pl-ofertan1ni5kd.shop
+allegrolokalnie.pl43984.top
+apartlon.com
+asserstamp.cyou
+b3rh7q.cfd
+bafybeifkilhlranv7rj63emeaaz3gye5rigd72s2cpuo4chpfvwqqp3sie.ipfs.inbrowser.link
+bjsyzcsbgs.com
+cloudotp.click
+cor28uvi.site
+cremapetri.cyou
+datehr.com
+disc888.com
+dmca-abuse.cfd
+en-id2942.asia
+en-id3492.asia
+en-id3842.asia
+en-id3942.asia
+en-id3952.asia
+en-id6421.asia
+en-id7926.asia
+en-id8723.asia
+frod3526.shop
+gryvongridai.com
+gubbeettag.cyou
+inpost.orderr-now.lol
+insoltrait.cyou
+interasson.cyou
+isabelline-wimple.shop
+j7xb2k.cfd
+japarndi.shop
+kennyshairdo.com
+konirad.sbs
+lobaveo.pro
+n8kq2b.cfd
+neolithics.org
+netdhr.com
+nilocksmith.com
+njmlkj.com
+nr-23843idms23.click
+ollx-polska.cor28uvi.site
+olx.nr-23843idms23.click
+olx.oferta19922.cfd
+olx.plpay-protranz.click
+onet-information-personal48265.verificationsservice.com
+onet-information-personal90343.verificationsservice.com
+opulezxncia.shop
+pay-openai-chatgpt.chat
+plasticostermoencogibles.pe
+plumbingsolutonsuk.com
+pols438.eu.cc
+potliencha.cyou
+profaoutve.cyou
+pureluxuria.com
+puretanwater.com
+q7mx2pn.skin
+retarlavam.cyou
+riaggtantr.cyou
+rscreativebooks.com
+rutu83yib.top
+scipeflabe.cyou
+scoratoryke.cyou
+sheikhjewelers.com
+shouldigetanev.com
+sinkfolk.com
+somalistudio.com
+syjrfs.com
+texekeypro.xyz
+themissingportraits.com
+tqtaxis.com
+universitytrials.com
+verificationsservice.com
+vitalpulptreatment.com
+xis93ef.help
+yourchoiceconservatoryinsulation.com
+zahltorapp-system.com
