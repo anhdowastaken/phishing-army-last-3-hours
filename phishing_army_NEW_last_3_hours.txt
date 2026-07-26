@@ -1,8 +1,66 @@
 # New records added to Phishing Army Extended Blocklist
 # Source: https://phishing.army/download/phishing_army_blocklist_extended.txt
-# Last updated: 2026-07-26 10:38:02 UTC
-# Blocklist Last-Modified: Sun, 26 Jul 2026 04:00:09 GMT
-# Blocklist Last-Modified (epoch): 1785038409
-# Total new records: 0
+# Last updated: 2026-07-26 13:04:41 UTC
+# Blocklist Last-Modified: Sun, 26 Jul 2026 10:00:09 GMT
+# Blocklist Last-Modified (epoch): 1785060009
+# Total new records: 59
 
-# No new records detected in the last check
+858158512.click
+85818521.click
+8958915981.click
+alebilet.858158512.click
+alebilet.85818521.click
+alebilet.8958915981.click
+alebilet.kup-teraz910597.pl
+alebilet.pl-ofertan1ni5kd.shop
+allegro.858158512.click
+allegro.85818521.click
+allegro.8958915981.click
+allegro.kup-teraz910597.pl
+allegro.pl-ofertan1ni5kd.shop
+allegrolokalnie.858158512.click
+allegrolokalnie.85818521.click
+allegrolokalnie.8958915981.click
+allegrolokalnie.kup-teraz910597.pl
+assisblock.cyou
+bilicileryapi.com
+billetix.com.sv
+cattleya-blazer.shop
+deorbinter.cyou
+dhlpaketzustellung.xjili99.vip
+dissevolut.cyou
+exococuopr.cyou
+fooballwroclaw.com
+frescavvan.cyou
+gelosmuckm.cyou
+imbozvulga.cyou
+invoice.gyxzh.com
+kup-teraz910597.pl
+letifoprit.cyou
+m4xv8qn.skin
+macrodisin.cyou
+nitrosbara.cyou
+nordiccraft.shop
+offnedensi.cyou
+olx.858158512.click
+olx.85818521.click
+olx.8958915981.click
+olx.kup-teraz910597.pl
+olx.pl-ofertan1ni5kd.shop
+palazsbiel.cyou
+pl-ofertan1ni5kd.shop
+scardincas.cyou
+service-prime-info.com
+servizio-intesasanpaolo.com
+tejesmbqfxn.ink
+teveliorac.shop
+teverjpknq.click
+tiratburne.cyou
+vinted.858158512.click
+vinted.85818521.click
+vinted.8958915981.click
+vinted.kup-teraz910597.pl
+vinted.pl-ofertan1ni5kd.shop
+woodqcraft.shop
+www.woodqcraft.shop
+xanthic-sandal.shop
