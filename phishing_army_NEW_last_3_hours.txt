@@ -1,8 +1,131 @@
 # New records added to Phishing Army Extended Blocklist
 # Source: https://phishing.army/download/phishing_army_blocklist_extended.txt
-# Last updated: 2026-08-01 05:48:22 UTC
-# Blocklist Last-Modified: Fri, 31 Jul 2026 22:00:09 GMT
-# Blocklist Last-Modified (epoch): 1785535209
-# Total new records: 0
+# Last updated: 2026-08-01 08:08:44 UTC
+# Blocklist Last-Modified: Sat, 01 Aug 2026 04:00:07 GMT
+# Blocklist Last-Modified (epoch): 1785556807
+# Total new records: 124
 
-# No new records detected in the last check
+0i0oxzbsa.e9joox.top
+121dax.senes.at
+abapj.com
+abundant-object-313658.framer.app
+allegrolokalne.888785.cfd
+allegrolokalnie.lokalna-53821.sbs
+alula-bet365.com.cn
+apple-maps.info
+aqua-aim-058324.framer.app
+artsy-illustrations-984670.framer.app
+automotriztempanoice.com.ve
+bradescocompenteseguro.online
+brilliant-darlings-372344.framer.app
+coinbase-invest--camrongraves4.replit.app
+concave-road-985703.framer.app
+connectxverificationproappsuit.framer.wiki
+creditopichincha-2026--credipichincha2.replit.app
+cristdisab.cyou
+cytheraonline.com
+delicious-yards-534105.framer.app
+discreet-population-548461.framer.app
+en.santandermicrofinance.com
+encontrar-lphone.top
+endodunipe.cyou
+enoftinagr.cyou
+find-cioud-phone.us
+finlab2-quasi15.sbs
+flackincav.cyou
+fortniter.live
+fortquick.top
+fy-iapple-alert.com
+garinhome.com
+glad-aim-446866.framer.app
+gluttrespi.cyou
+go-zebebidas24h.shop
+go-zebebidass.shop
+go-zedelivery24h.shop
+go-zeexpresss24h.shop
+google8upbd.com
+greatislamicscholars.com
+hawkequiwick.shop
+ibajiio.pro
+ifind-maps-recover.com
+irrelevant-amethyst-kkwymbkj.edgeone.dev
+k82o.top
+l-lcloud-com.site
+largest-centre-116559.framer.app
+lavielinterior.com
+ldgr-secure-live.wasmer.app
+localizar-mi-lphone.life
+location-ios-find.us
+login.expressshoppers.co.uk
+login.onlinebankofamerica.org
+mail.encontrar-lphone.top
+mail.find-cioud-phone.us
+mail.fy-iapple-alert.com
+mail.icloud-zr.com
+mail.ifind-maps-recover.com
+mail.l-lcloud-com.site
+mail.localizar-mi-lphone.life
+mail.location-ios-find.us
+mail.my-iapple-located.com
+mail.my-info-irecover.com
+mail.phone-cloud.site
+mail.phone-lcloud.site
+mail.recover-phone.sbs
+make-spots-735591.framer.app
+malcodisse.cyou
+marketingideal.online
+menatextiles.com
+misintrazi.cyou
+mmecotimoteo.com.br
+mu-sadqweasc.com
+my-iapple-located.com
+my-info-irecover.com
+mydollarduck.com
+netflix1au.com
+nordiczen.shop
+norqeti.shop
+oauth.onedrive.biz.id
+obvious-sense-693470.framer.app
+other-help-488578.framer.app
+paperlesspost-partymonica.velnora.vu
+passionate-pudding-312180.framer.app
+patient-office-998541.framer.app
+phone-cloud.site
+phone-lcloud.site
+pleasant-vacation-703142.framer.app
+poinseaattias.info
+produbancocargos.atencion-digital.es
+ravkoryn-pl.com
+recover-phone.sbs
+rezzsolventsshmeared.info
+roblox.ly
+s.team-fz.com
+serviciowebdesolicitudes.xo.je
+staffpregi.cyou
+sterzgeota.cyou
+syamazon168.com
+texervxnpa.click
+thriving-video-782694.framer.app
+tikshop.xin
+tr-binancelogin.com
+vartomir-pl.com
+vibrant-crow-962043.framer.app
+visual-mango-396940.framer.app
+wekstronproai.com
+www-robllox.com
+www.abapj.com
+www.alula-bet365.com.cn
+www.chat.ring-whatapp.com.cn
+www.hgser.closer.website
+www.instagramhelp.whf.bz
+www.item.ehay.com.login.secures-wr8wsvzt.construccionesjlfabririssas.com
+www.mateladepormhub.phemayameltahub.site
+www.mghub.phemayameltahub.site
+www.trustwallet.com-two-factor-authentication07.ao.yesixrq.com
+www.trustwallet.com-two-factor-authentication09.ao.yesixrq.com
+xfupgradereset.framer.ai
+zealous-tangerine-470131.framer.app
+zedeliverys-express.shop
+zeexpress-48h.shop
+zeexpress-oficial.shop
+zorza-rentura.com
