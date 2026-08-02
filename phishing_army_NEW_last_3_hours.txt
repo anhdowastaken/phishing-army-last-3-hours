@@ -1,8 +1,68 @@
 # New records added to Phishing Army Extended Blocklist
 # Source: https://phishing.army/download/phishing_army_blocklist_extended.txt
-# Last updated: 2026-08-02 10:27:50 UTC
-# Blocklist Last-Modified: Sun, 02 Aug 2026 04:00:12 GMT
-# Blocklist Last-Modified (epoch): 1785643212
-# Total new records: 0
+# Last updated: 2026-08-02 13:05:16 UTC
+# Blocklist Last-Modified: Sun, 02 Aug 2026 10:00:08 GMT
+# Blocklist Last-Modified (epoch): 1785664808
+# Total new records: 61
 
-# No new records detected in the last check
+6e5t42r.hair
+addomsensi.cyou
+allegrolokalnie.634355gj.top
+allegrolokalnie.oferta3947vs3.rest
+allegrolokalnie.p89oferta394zxv39.online
+ballet-pl.website
+biotecello.cyou
+cabotreinf.autos
+compte-infos.com
+dyhavee.com
+ecarte-actualisations.com
+effemrivie.cyou
+fifarenderz.net
+finlab0-odio30.sbs
+finlab1-molestiae63.sbs
+finlab4-veniam94.sbs
+finlab6-sequi63.sbs
+finlab7-dolorem63.sbs
+finlab8-sint14.sbs
+fomendisar.cyou
+fts.unt.ba
+gj.r9ucep.top
+googlepemy.com
+googleplrzy.com
+gov.myminfin-idaccount.com
+impecdrapp.cyou
+indradisse.cyou
+infemprota.autos
+infos-compte.com
+intisapice.cyou
+kinnosora.shop
+kuvrothelx.de
+kynetra.info
+m.5-binance.com
+micros0ft.tech
+microsoftuk.co
+mrelay-planifications.com
+naphtsuffu.cyou
+ollx-polska.muzu70q.click
+page.bobpitera.com
+palaeperit.cyou
+prime-info-compte.com
+primevideoamazon.myminfin-idaccount.org
+qv.r9ucep.top
+requiunrep.cyou
+riaffesfol.cyou
+ricalpreri.cyou
+spa.ghtsg.com
+tatuumeu.com
+th.r9ucep.top
+v2dq8.r9ucep.top
+votre-acces-gp.com
+votre-acces-prime.com
+vqj.r9ucep.top
+walnut-cummerbund.shop
+wdp.poladtkacc.com
+wilsonvietnam.com
+www.allegrolokalnie.pl-482921.sbs
+www.gov.myminfin-idaccount.com
+www.kinnosora.shop
+www.wellsfraudsupport.com
