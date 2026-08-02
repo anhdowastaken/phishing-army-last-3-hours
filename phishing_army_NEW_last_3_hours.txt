@@ -1,8 +1,89 @@
 # New records added to Phishing Army Extended Blocklist
 # Source: https://phishing.army/download/phishing_army_blocklist_extended.txt
-# Last updated: 2026-08-01 21:47:23 UTC
-# Blocklist Last-Modified: Sat, 01 Aug 2026 16:00:09 GMT
-# Blocklist Last-Modified (epoch): 1785600009
-# Total new records: 0
+# Last updated: 2026-08-02 02:05:32 UTC
+# Blocklist Last-Modified: Sat, 01 Aug 2026 22:00:11 GMT
+# Blocklist Last-Modified (epoch): 1785621611
+# Total new records: 82
 
-# No new records detected in the last check
+2ku3wk.skin
+4k45ijk.skin
+5o5ir8.skin
+6e2v0ei.skin
+9iqjuyw7t.skin
+access.baswaredev.com
+acornalchemy.com
+aiiegrolokalnie.pl-f5dgbfs8f.click
+alebilet.pl-ticketnumber029502.lat
+allegro.0129g98349129.rest
+allegrolokalnie.980547.lat
+allegrolokalnie.pl-oferta658937811.cfd
+app-zh-heibaisports.com
+archisorge.cyou
+atout-precocite.fr
+axopedoute.cyou
+bankofamericaforeclosure.ph
+cn-web-yoolive.com
+condorfondencia.com
+cycyqio.pro
+doostawe-ii3492.eu.cc
+duolingo-subscriptions.bolt.host
+email-social.com
+fifa-hiring.com
+finlab4-repudiandae73.sbs
+finlab5-earum57.sbs
+finlab5-odit51.sbs
+finlab5-perferendis7.sbs
+finlab7-aut82.sbs
+finlab7-dolore22.sbs
+frivohocks.cyou
+gartechnology.tech
+geotherm.cfd
+gunaigute.com
+icloud-zr.com
+indisinfio.cyou
+ingurabomi.cyou
+karizsoheili.com
+ker3000.com
+lengthtotalengthine.gre330.com
+mon-espace-renouvellement-info.com
+monaccmonthly.com
+msmsupplychain.com
+mvm-nexthu.com
+olx-pl.beoaiz.icu
+orthograpwwhic.info
+pairs.rakkumall.com
+panisanoxe.cyou
+podatkinf.com
+ppl-logacces.com
+qr-topaydaynsn13.com
+qrate.africa
+queroouvir.com.br
+registrer-user.com
+rimbrvagif.cyou
+risogsalta.cyou
+rushadventure.com
+ryanssafeplace.com
+simple-pay.lol
+spalaunive.cyou
+spk.kunde-daten-aktualisieren.com
+stiacbulbo.cyou
+teretqazwsx.help
+thepublicplanet.com
+ulivighign.cyou
+unepatuyer.cyou
+valtrixnexus-ai.nl
+vital-info.com
+wd.podatkinf.com
+whyekeong.com
+wingbassis.cyou
+workshopsledbyiesa.sgqntk1.com
+www.acornalchemy.com
+www.allegrolokalnie.pl-5891795691.sbs
+www.gartechnology.tech
+www.geotherm.cfd
+www.mon-espace-renouvellement-info.com
+www.monaccmonthly.com
+www.mvm-nexthu.com
+www.ryanssafeplace.com
+zlal-ii327.eu.cc
+zlal-ii327.my.id
