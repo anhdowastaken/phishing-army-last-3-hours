@@ -1,8 +1,91 @@
 # New records added to Phishing Army Extended Blocklist
 # Source: https://phishing.army/download/phishing_army_blocklist_extended.txt
-# Last updated: 2026-08-04 11:17:20 UTC
-# Blocklist Last-Modified: Tue, 04 Aug 2026 04:00:13 GMT
-# Blocklist Last-Modified (epoch): 1785816013
-# Total new records: 0
+# Last updated: 2026-08-04 13:53:30 UTC
+# Blocklist Last-Modified: Tue, 04 Aug 2026 10:00:15 GMT
+# Blocklist Last-Modified (epoch): 1785837615
+# Total new records: 84
 
-# No new records detected in the last check
+accopmadon.autos
+advenpitag.autos
+alebilet.pl-oferta983712506.shop
+allegrolokalnie.632646de.top
+apps-secure-amazon-payment.com
+argoncompass.com
+birchyieldstead.live
+bjksks.info
+bppumpkinlyproviso.info
+brick-sneakers.shop
+bronze-chelsea.shop
+click-bankofamerica-click.com.ph
+corpsolnaciente.com
+cosmopoliuutanism.info
+dailyinsightless.top
+dailynewsflashd.info
+damask-chelsea.shop
+dirazspagl.autos
+dofinansowanie2026.life
+domzen.shop
+dradro.online
+dziennikdietetyka.xyz
+ebay-wholesale.com
+enhtrack.digital
+fala-etykiety.lovable.app
+finhub7-alias35.sbs
+finlab1-voluptate47.com
+finlab3-iste63.com
+finlab4-debitis95.com
+finlab5-ab27.com
+finlab5-architecto81.com
+finlab6-quaerat54.com
+finlab7-praesentium17.com
+furkanoktay.online
+grelvon.shop
+grunfel.shop
+guvlon.com
+helixvoratrade.com
+intasnovia.autos
+irritanort.autos
+itmark.com.my
+jackalsdeckvved.info
+kenchtrasr.autos
+kestavion.top
+kevonix.shop
+konkurs-rysunkowy.online
+krenvok.shop
+localdrop.co.uk
+m8qv4xt.skin
+maluj-podrozuj.online
+manaward.digital
+mcxkisx.us.cc
+modifybooking.lnhjsy.com
+motortavol.autos
+nordicsmoku.shop
+novarentixx.store
+orlentinara.info
+otomoto-o3-o8-26.click
+ottemuncou.autos
+oxycegimba.autos
+pencoxylyl.autos
+pepco.trekplsdfsdfsdfdsfdsfeister-nl.sbs
+plebecomin.autos
+pressreporting.com
+program-lojalnosciowy.life
+pupinprede.autos
+rallesofis.autos
+reportinsider.com
+reservation.cnxgshbc.com
+riforgufat.autos
+ruckerstattung.sviluppo.host
+sakopreverm.com
+scortcarre.autos
+sfrenrical.autos
+staggresup.autos
+texelxmqra.click
+treacxxherous.info
+ubealtranico.pro
+ukdefazasavrety.com
+unrepcanoc.autos
+valizalevel.site
+www-aruba-it.egmart.egitsoft.com
+www.guvlon.com
+www.itmark.com.my
