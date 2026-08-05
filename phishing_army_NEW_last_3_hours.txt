@@ -1,8 +1,123 @@
 # New records added to Phishing Army Extended Blocklist
 # Source: https://phishing.army/download/phishing_army_blocklist_extended.txt
-# Last updated: 2026-08-05 19:19:22 UTC
-# Blocklist Last-Modified: Wed, 05 Aug 2026 16:00:09 GMT
-# Blocklist Last-Modified (epoch): 1785945609
-# Total new records: 0
+# Last updated: 2026-08-05 22:06:34 UTC
+# Blocklist Last-Modified: Wed, 05 Aug 2026 22:00:09 GMT
+# Blocklist Last-Modified (epoch): 1785967209
+# Total new records: 116
 
-# No new records detected in the last check
+03fwbvcx.shop
+3nxx.ks6gdt.qpon
+3rr.z8wnap.cfd
+52l59.z8wnap.cfd
+6t.c1wsay.casa
+9n.ks6gdt.qpon
+accekit.site
+adzelefield.site
+alapovent.net
+allegrolokalnie.200856231243.lol
+allegrolokalnie.lokalna-02741.sbs
+allegrolokalnie.lokalna-62732.sbs
+allegrolokalnie.nr-043928ds32.lol
+allegrolokalnie.po-23981.sbs
+allieglroolokanie.tinicewey.wiki
+augenspezialisten.com
+auricinsem.autos
+auto-aiapp-pl.com
+b6vcmy.qpon
+bhd660bf367144d4ac0b5e290f.xo.je
+blackrosefinbitnextech.com
+bradescotopazatualize.com
+btcormont.live
+burdeindug.autos
+cajaarequipa.portal-online.com.es
+canakkaleasya.com
+cdzvay.shop
+checkbuy735.shop
+dechhoktravel.com
+digivistiblox.site
+disseeccyc.autos
+durimie.pro
+edgeway-crescor-pro.com
+eiffage-batiment.com
+enginmob.com
+entratezza.pro
+espace-video.com
+feyzamedikal.com
+fifacash.id
+fifanvzilanqiushijiebei.lol
+finhub1-ut82.sbs
+finlab1-iste53.com
+finlab1-optio59.com
+finlab1-pariatur30.com
+finlab3-voluptatem77.sbs
+finlab4-tenetur11.sbs
+finlab4-voluptates3.sbs
+finlab7-nihil75.com
+finlab8-suscipit33.com
+finlab9-minus24.sbs
+g2.ks6gdt.qpon
+gateareis.vu
+gptchat-bot.digital
+immediate-connect.online
+interniten.autos
+invenclii.autos
+ipumu.earthgreen.com.co
+jakyzui.pro
+k8hh6.z8wnap.cfd
+kadincatarz.com
+kalyrox-ai.co.za
+lezzetarasi.com
+lovunix.shop
+lw9.ks6gdt.qpon
+malicinciu.autos
+matrapath.site
+mq2.z8wnap.cfd
+munimventures.com
+myapp-acces.com
+nabyrtoix.com
+neorgabridge.site
+newfreshdaily.com
+nexudedapt.site
+noblirstudio.online
+nordiqo-ca.online
+nw-6tu.account-paypal.antimoney-laundering.org
+o3-i1x-49wdy.b6vcmy.qpon
+oi-lx-nc61-poc.b6vcmy.qpon
+orchimalle.autos
+oy14x-vo71.b6vcmy.qpon
+pay.pagpixseguro.store
+paypal.com-websppsc-verification.epsilons.co
+plainhearthway.eu
+postforyouid.lat
+rapidreportingty.pro
+regushbanyo.com
+revareal.com
+rimbuparen.autos
+saledenisos.online
+saway-fashionpl.shop
+sigmkeysdrive.site
+sigortanedir.net
+solvedcourses.com
+spazio.ed-intra.com
+specializeds.com.pl
+spetreffum.autos
+stamp-station-flow.lovable.app
+sucive-gu.autos
+suunto2026.com
+suzugrow.com
+tchetteler.autos
+tralvosello.digital
+twojastaraciasna.site
+ultrsign.site
+v6v7.z8wnap.cfd
+vacancies.hzxrobot.com
+video-espaceprime.com
+vinted.team-confirm-delivery.com
+www.lovunix.shop
+www.saway-fashionpl.shop
+www.specializeds.com.pl
+www.sucive-gu.autos
+www1-icloud.com
+xd3lz.z8wnap.cfd
+zamowienie633.lat
+zamowienie634.lat
