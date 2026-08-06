@@ -1,8 +1,117 @@
 # New records added to Phishing Army Extended Blocklist
 # Source: https://phishing.army/download/phishing_army_blocklist_extended.txt
-# Last updated: 2026-08-06 08:21:50 UTC
-# Blocklist Last-Modified: Thu, 06 Aug 2026 04:00:11 GMT
-# Blocklist Last-Modified (epoch): 1785988811
-# Total new records: 0
+# Last updated: 2026-08-06 11:14:03 UTC
+# Blocklist Last-Modified: Thu, 06 Aug 2026 10:00:09 GMT
+# Blocklist Last-Modified (epoch): 1786010409
+# Total new records: 110
 
-# No new records detected in the last check
+3feeeklecdws.com
+73a2370016b7.paypal-login.antimoney-laundering.org
+73a2370016b7.wvil.accounts-paypal.antimoney-laundering.org
+73a2370016b7.www.secure23274.paypal-ssl.antimoney-laundering.org
+activodorena.com
+affierastr.autos
+allegro.q0e0120129.click
+allegrolokalnie.77378297253813.lol
+amazon-prime.one
+arkbit-luxen-software.com
+bafkreif3gm5xhggs5pawoxjdgjmpbuw4hzoxf3zuff55fo523xjicsftdu.ipfs.inbrowser.link
+bafkreihjymdqtitupcjqoqwalaxrure2durwnfimgn4t64u5wglgxugiea.ipfs.inbrowser.link
+binance-bnb.com.cn
+bitcoincodes.digital
+bpo2-grupp.pl
+calverosparktrade.com
+cicinesord.autos
+cinqurindu.autos
+clayarino.com
+colorammut.autos
+cordosoppa.autos
+cryptoyieldbrain.net
+delvornvault.com
+e-devlet-tr.online
+ecdsvevtr4cdres.com
+echopressmint.site
+exolvianustrade.com
+finhub1-pariatur69.sbs
+finhub5-temporibus38.sbs
+finhub6-et86.sbs
+finhub8-dolores58.sbs
+finhub9-aut48.sbs
+finhub9-est12.sbs
+finlab1-molestiae1.sbs
+finlab2-aliquid84.sbs
+finlab2-sed90.sbs
+finlab2-vero53.sbs
+finlab4-autem58.sbs
+finlab5-enim41.sbs
+finlab5-et62.sbs
+finlab5-in41.sbs
+finlab5-sint44.sbs
+finlab6-sit3.sbs
+finlab7-aperiam11.sbs
+finlab7-aut9.sbs
+finlab8-adipisci43.sbs
+finlab8-maxime53.sbs
+finlab8-sint1.sbs
+finlab8-voluptatum74.sbs
+finlab9-perspiciatis41.sbs
+fintrion.net
+fourcraffr.autos
+futurocapitexai.net
+globarabbr.autos
+go0glev.com
+goiudgh.com
+guestcare.jnyingfang.com
+impagsimbo.autos
+jurnfax.shop
+keluvia.shop
+kgstinvest.com
+kralvexim.com
+kyphosquea.autos
+labstable.digital
+lampoinvestecto.net
+lanternertragis.net
+login-santanderkey.com
+lotxincur.autos
+mexqori.shop
+morunix.shop
+myy-orrderrs3923.eu.cc
+nectarwertgrove.net
+neruvikofalemaro.com
+netflix-update.com.graphicboat.com
+newssparkvivid.digital
+nexixv1.net
+nonvaschia.autos
+ntflixgatewayserv.165-154-255-30.cpanel.site
+parking-verification.online
+photosharing-icloud.com
+pl-aiapp-flex.com
+plokzen.shop
+polverix-pro.club
+postorders.lat
+profinafundecor.com
+rayofondivo.net
+redunperic.autos
+sassoguadanzo.com
+seltarnik.com
+sintarvelx.com
+sopradisva.autos
+spaziincav.autos
+spotfyillimited.making-a-payment.com
+spotify-premiums.com
+tettaraggi.autos
+teveflora.help
+tevehivia.help
+tevelabia.shop
+tevewavia.help
+ticketmaster.pl-oferta27919729.click
+tigaimpin.autos
+trotisepti.autos
+visioneprexneo.net
+vrecdvt4res.com
+vynovista63.site
+waveclearaitrade.com
+www.keluvia.shop
+www.rovunia.shop
+zywa-kapiter-pl.vip
+zywa-kapiter.club
