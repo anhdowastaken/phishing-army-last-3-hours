@@ -1,8 +1,114 @@
 # New records added to Phishing Army Extended Blocklist
 # Source: https://phishing.army/download/phishing_army_blocklist_extended.txt
-# Last updated: 2026-08-07 02:18:37 UTC
-# Blocklist Last-Modified: Thu, 06 Aug 2026 22:00:09 GMT
-# Blocklist Last-Modified (epoch): 1786053609
-# Total new records: 0
+# Last updated: 2026-08-07 04:49:33 UTC
+# Blocklist Last-Modified: Fri, 07 Aug 2026 04:00:09 GMT
+# Blocklist Last-Modified (epoch): 1786075209
+# Total new records: 107
 
-# No new records detected in the last check
+215315532.lat
+3.hxoc.top
+541561.com
+648544584.vip
+9000-firebase-dod-1781591645062.cluster-lqzyk3r5hzdcaqv6zwm7wv6pwa.cloudworkstations.dev
+946486.vip
+agepj.org.ar
+amoe-lite.com
+annodrtize.autos
+antai-dossier-regul.com
+avoirentorplateforme.click
+busy-apricot-rh2zba1f.edgeone.dev
+chaselivedesk.com
+collectionproperties.in
+contrsdora.autos
+creditoapoyoltauempresas.site
+dfgs5cpjrjljg7hdlpagx.securelink-hq.com
+digitalplatforum.com
+diiaimperdivelttk2026.online
+domain-dpgqiutb5rby.edgeone.dev
+domeny.homepl.net
+dominionpeak.co.uk
+dupllacidadania.com
+e.vg
+en-public.zapier.app
+espace-sofinco.com
+espaces-prims.com
+estorplaycamp.com
+express-ze-delivery.shop
+express-zebebidas.shop
+favourite-sapphire-ihvzqfie.edgeone.dev
+feelingbuhis.info
+finlab1-quaerat96.sbs
+finlab1-vitae41.sbs
+finlab2-eius66.sbs
+finlab2-quia34.sbs
+finlab3-non80.sbs
+finlab9-ipsum81.sbs
+finlab9-rem33.sbs
+finserveconsulting.com
+florinavelor.info
+fortseo.cc
+fortvalue.cfd
+giftrobux.click
+ginaruiz.com
+gotbackupjv.com
+hddy1.com
+hhttytytyy.cwojho0qjojq.com
+i0jhrz.tokeonptoket.com
+inciler.net
+knownpanel.xyz
+land06.aabenrapharma.de
+liketproperty.com
+login.ambc27.com
+loginvotrespace.segretob.fr
+luderlawe.com
+m.500275.com
+m.fyqn9810la0y.com
+malkron.shop
+manageaccountsappsscureamzofficial.fluxus.org
+metasuites.pro
+netflixapp.com
+nkt-mhgfr.wasmer.app
+officialcaseshub.com
+ornnicon.com
+panel-dateintrictional.help
+panorriton.autos
+paymentseuro.xyz
+plurevia.info
+pseudzoome.autos
+qelarolt.org
+qtgamd.icu
+rendakon-ai.net
+resgat.livelbra.work
+riagualter.autos
+scavedisen.autos
+seguro.livesuporteaqui.com
+service-diag-solutions.cfd
+service-relaypro.com
+soffeartig.autos
+spontanius-glee-dppzegho645m.edgeone.dev
+spoo.me
+sunday-laysmeal.de
+swalldispu.autos
+tame-yellow-8ck2chxh.edgeone.dev
+tevefloro.work
+tiktokcreatorbadges.com
+track-sp03.greeninsight.info
+trustwallet.com.4-240-89-20.cpanel.site
+unannannul.autos
+verappsakses.jumpingcrab.com
+vhpgs78nt8.ap-northeast-1.awsapprunner.com
+whatsapp.stephenpaulraj.com
+wtgsgpsuukcxvoef.solendrias.com
+www.allegro.829302.shop
+www.amoe-lite.com
+www.chaselivedesk.com
+www.giftrobux.click
+www.paymentseuro.xyz
+www.trustwallet.com.4-240-89-20.cpanel.site
+wwwv-roblox.co
+youpic.id68143.click
+ytnvqhzkcxezyjnl.vdiavypiaty.com
+zdfsagfmvywdyikq.plurevia.info
+zeexpress-bebidas48h.shop
+zeexpress-drinks48h.shop
+zelamtron-ai.net
