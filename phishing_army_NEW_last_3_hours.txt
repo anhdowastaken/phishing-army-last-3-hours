@@ -1,8 +1,51 @@
 # New records added to Phishing Army Extended Blocklist
 # Source: https://phishing.army/download/phishing_army_blocklist_extended.txt
-# Last updated: 2026-08-09 21:23:38 UTC
-# Blocklist Last-Modified: Sun, 09 Aug 2026 16:00:10 GMT
-# Blocklist Last-Modified (epoch): 1786291210
-# Total new records: 0
+# Last updated: 2026-08-10 01:11:42 UTC
+# Blocklist Last-Modified: Sun, 09 Aug 2026 22:00:12 GMT
+# Blocklist Last-Modified (epoch): 1786312812
+# Total new records: 44
 
-# No new records detected in the last check
+allegrolokalnie.632656ea.top
+allegrolokalnie.dn-produkt02784713.lat
+allegrolokalnie.lokalna-ofeta16xv0y2j00475.shop
+allegrolokalnie.oferta7812467.lat
+appalventu.cyou
+apparauos.cyou
+approciucc.cyou
+archiattec.cyou
+axturem.shop
+bafkreifqv3ktdi6tm3mxs7xcpeeeqnbfdazqgimntlrhyiw7xpaujqfp2u.ipfs.inbrowser.link
+bankofamerica-secure-changelog.ph
+bankofamerica-secure-log.ph
+coinvexorsmartbit.net
+f6n2rv.lat
+finlab3-distinctio51.sbs
+finlab3-quisquam65.sbs
+finlab4-eveniet28.sbs
+googlesqzcacviii.com
+gundelq.shop
+h9v5kc.lat
+interinsec.cyou
+iquxlaus.shop
+j3bg9k.pics
+lamnoriduz.cyou
+luminhjique.shop
+m1z7hp.lat
+menzak.shop
+muza-wydarzenia.eu
+n-n.paypal-login.antimoney-laundering.org
+p4z8nk.lat
+ppain-2348.eu.cc
+pptyx.com
+purecrest-ulrix-solution.com
+q7m2xr.lat
+t8k5yd.lat
+u2bk9w.icu
+update-netflix.info
+v5jk1b.icu
+violeralle.cyou
+vornelcrest.com
+w9c4lz.lat
+webdisk.secure-revolut.com
+www.luminhjique.shop
+zarkun.shop
