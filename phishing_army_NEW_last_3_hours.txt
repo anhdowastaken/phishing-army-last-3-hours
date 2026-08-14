@@ -1,8 +1,100 @@
 # New records added to Phishing Army Extended Blocklist
 # Source: https://phishing.army/download/phishing_army_blocklist_extended.txt
-# Last updated: 2026-08-14 09:53:03 UTC
-# Blocklist Last-Modified: Fri, 14 Aug 2026 04:00:10 GMT
-# Blocklist Last-Modified (epoch): 1786680010
-# Total new records: 0
+# Last updated: 2026-08-14 12:49:21 UTC
+# Blocklist Last-Modified: Fri, 14 Aug 2026 10:00:10 GMT
+# Blocklist Last-Modified (epoch): 1786701610
+# Total new records: 93
 
-# No new records detected in the last check
+97722-google.com
+allegrolokalnie.624454fr.top
+amazon-games.club
+arqvilo.shop
+astagtotal.top
+avvenretro.online
+bankofamericapayment.ph
+bankofamericasettlement.ph
+bankofamericasunucu.ph
+busseeicos.autos
+c5v9qw.lat
+caenofouri.online
+center.creatormonetizationsupportsolutionsmetaai.click
+chat.zjgjym.com
+complinobs.online
+contrheter.online
+corezsaium.site
+dailyvalueoffers.shop
+decuratmos.online
+dgtoken-sg.danielegasparin.com
+ehttt.top
+eloviax.shop
+finny5-beatae25.sbs
+finny9-veniam70.sbs
+fisio0-et67.sbs
+fisio1-magnam62.sbs
+fisio2-cumque96.sbs
+fisio4-quis45.sbs
+fisio5-et95.sbs
+fisio6-veniam32.sbs
+fisio7-quibusdam48.sbs
+furniture00oo1.shop
+gdnw.miltoncattery4u.com
+gls-group-pl.info
+glsgroup-it.top
+google4d.net
+googleplefy.com
+gravinferfix.site
+groudpd.click
+grougls.click
+h1m6zr.lat
+hurenzbbs.com
+id197310.click
+id4527391156.click
+jaxduni.shop
+juiomnsk.shop
+kneadtofs.online
+kucoin-compliance-bridge--kucoin-eu-compliance.europe-west4.hosted.app
+linalripur.online
+m2w7-r.hair
+magnkryometra.site
+mail69.genisa.top
+mevrixor.com
+muvohay.com
+mux-li.net
+myshlinki.site
+nnkas.shop
+olenttrica.autos
+pdtkn.com
+phasmudash.site
+podatki-aj.pdtkn.com
+podatki-cw.pdtkn.com
+podatki-ma.pdtkn.com
+podatki-qo.pdtkn.com
+podatki-uw.pdtkn.com
+podatki-xm.pdtkn.com
+projectmonta.com
+pwtweets.com
+r4k8mz.lat
+ricomlecit.online
+rinaslagri.autos
+sec-santander.com
+sg.skyproofco.com
+shockregim.autos
+smbc-ina.top
+sovelia.shop
+strelevel10.site
+svolgtribu.autos
+t7p2xn.lat
+timeticket.sbs
+ulmepi.shop
+upgrade-dp2c1xqj8ejo.edgeone.dev
+uststipog.autos
+verificatie-bankofamerica.ph
+veroruni.site
+voxfirmhash.site
+vynotracoh.site
+webmeet-google.com
+wernuq.shop
+www.smbc-ina.top
+yielmagnora.site
+yulqor.shop
+zefrani.shop
