@@ -1,77 +1,8 @@
 # New records added to Phishing Army Extended Blocklist
 # Source: https://phishing.army/download/phishing_army_blocklist_extended.txt
-# Last updated: 2026-08-16 12:23:59 UTC
+# Last updated: 2026-08-16 15:14:11 UTC
 # Blocklist Last-Modified: Sun, 16 Aug 2026 10:00:08 GMT
 # Blocklist Last-Modified (epoch): 1786874408
-# Total new records: 70
+# Total new records: 0
 
-allegrolokalnie.kup-teraz-890285.pl
-asimjaved.com.pk
-b7x3vp.lat
-bankofamerica-tax.ph
-bankofamericabank.ph
-bankofamericafamilyoffice.ph
-bankofamericagiftcard.ph
-bankofamericain.ph
-bankofamericarealtor.ph
-bankofamericasonlinebanking.ph
-bankofamericaxrp.ph
-binance--cekilisi.com
-binance--cekilisleri.com
-binance-cekilisi.com
-binance-cekilisleri.com
-binancecekilisi.com
-binancetrcekilis.com
-bowdlerizccing.info
-brothtraso.shop
-calassgrop.shop
-cekilis--binance.com
-circumvaljjlate.info
-client.sgparticuliers.com
-commepreme.shop
-dejanpepe.shop
-diesedemon.rest
-discimache.shop
-drentok.shop
-fisio6-dolorum90.sbs
-fisio7-ducimus56.sbs
-fisio8-vel60.sbs
-fremdok.shop
-g6.d2qlig.cfd
-gastaldiferla.com.ar
-jewelhypot.rest
-jt.d2qlig.cfd
-k2h9qy.lat
-kaleidovscope.shop
-kramtel.shop
-mailling.ecolefouadgroupsg.com
-mailling.foufouaddedegroupecole.com
-mesosanaer.shop
-mondial.relay-belge.com
-morksen.shop
-offerupverify.bond
-overcenfftralizegreaseless.info
-oziosraze.rest
-parking-system.app
-pdtks.com
-play-google-dl.com
-podatki-py.pdtks.com
-podatki-vm.pdtks.com
-poland-parking.com
-poohotofinisher.info
-precedinglallnt.info
-pruskel.shop
-pwwsychologising.info
-qk.d2qlig.cfd
-qrastik.shop
-relay-belge.com
-riprabalne.rest
-rizzaresia.shop
-sborsoverd.rest
-smbc-casee.com
-smbc-cordiis.com
-tylgron.shop
-update-netflix.com
-valgrut.shop
-xj9.d2qlig.cfd
-zurnak.shop
+# No new records detected in the last check
