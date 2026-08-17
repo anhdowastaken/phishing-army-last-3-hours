@@ -1,8 +1,96 @@
 # New records added to Phishing Army Extended Blocklist
 # Source: https://phishing.army/download/phishing_army_blocklist_extended.txt
-# Last updated: 2026-08-17 09:33:25 UTC
-# Blocklist Last-Modified: Mon, 17 Aug 2026 04:00:08 GMT
-# Blocklist Last-Modified (epoch): 1786939208
-# Total new records: 0
+# Last updated: 2026-08-17 12:28:57 UTC
+# Blocklist Last-Modified: Mon, 17 Aug 2026 10:00:11 GMT
+# Blocklist Last-Modified (epoch): 1786960811
+# Total new records: 89
 
-# No new records detected in the last check
+acs-fasclo.eu.cc
+amazon.accsubs-prime.eu.cc
+bankofamerica-chi.ph
+bankofamerica-oturum.ph
+bankofamerica-t.ph
+bankofamericacorporation.ph
+bankofamericasports.ph
+bankofamericawebsiteloung.ph
+catholicnnate.info
+cnbeautynet.com
+colagenoyhialuronico.com
+commercz.sviluppo.host
+cosibella.tigotaitiwi.sbs
+dermaoinom.site
+dimeurfliet.site
+dobbescos.site
+epdtk.com
+evfrckinuu.xyz
+excretalreassemblnnage.info
+fascicolo-sanitario.com
+finny0-dolorem61.sbs
+fisio0-aspernatur10.sbs
+fisio1-et52.sbs
+fisio2-dolor25.sbs
+fisio3-cum39.sbs
+fisio3-omnis56.sbs
+fisio5-et57.sbs
+fisio6-dolores73.sbs
+fmpqwyp.cn
+fraclab90.site
+getegratenj.lovable.app
+gligiora.site
+hjjyperimmunization.info
+hugerrnesses.info
+hukemispacc.rest
+ianthine-purse.shop
+incomellit.rest
+justotakuthings.com
+kfckid.com
+kuldra.shop
+lineavindi.com
+login.sh-hcty.com
+lymqet.shop
+mail.delta-0b19.fr
+mail.mailflow-4fb8.fr
+mail.prime-9383.com
+mail.sendhub-a4b7.net
+mail.sigma-3e69.fr
+mail.swift-eeb2.com
+murzelo.shop
+naturalizationppvehicles.info
+neurotara.site
+olx.conf1rm.shop
+pedunnyssa.rest
+phylloxeramisiicellaneousnesses.info
+pivotpoint-cowork.lovable.app
+pl-acs.eu.cc
+podatki-mj.epdtk.com
+podatki-qj.epdtk.com
+portbitplatform.com
+propertiesrenter.co
+pussydinon.rest
+reellelux.com
+riaccbinde.rest
+secupass-caissedep.com
+service-customer.site
+support-postal.com
+support-souscriptionaboplus.help
+support-souscriptionvideo.help
+tacitrrlybalkanization.info
+tadifyner.lovable.app
+tasmark.shop
+telemoment.shop
+terkun.shop
+traaadedwolfer.info
+undrepareg.rest
+virtdockvista.info
+vivacrifor.rest
+wondehjrstruck.shop
+www.fmpqwyp.cn
+www.kfckid.com
+www.propertiesrenter.co
+www.support-souscriptionaboplus.help
+www.support-souscriptionvideo.help
+www.wondehjrstruck.shop
+xerotborde.site
+xveongezolzvl.top
+yeydynoxqryw.top
+yummy-diplodocus-081216.framer.app
