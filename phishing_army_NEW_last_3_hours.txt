@@ -1,83 +1,8 @@
 # New records added to Phishing Army Extended Blocklist
 # Source: https://phishing.army/download/phishing_army_blocklist_extended.txt
-# Last updated: 2026-08-21 00:53:56 UTC
+# Last updated: 2026-08-21 03:43:43 UTC
 # Blocklist Last-Modified: Thu, 20 Aug 2026 22:00:09 GMT
 # Blocklist Last-Modified (epoch): 1787263209
-# Total new records: 76
+# Total new records: 0
 
-2jhg3tf.skin
-64w7pbf.pics
-actitudvintage.com
-admins.mzzrj.com
-alabaster-satchel.shop
-allegrolokalnie.167v922n4212.lol
-allegrolokalnie.623655tp.top
-allegrolokalnie.8235672.lol
-allegrolokalnie.lokalna-93827.sbs
-allegrolokalnie.lokalna-oferta839122.lol
-allegrolokalnie.oferta29lj0b6vw8v.site
-allegrolokalnie.pl-aibt8.sbs
-allegrolokalnie.pl-oferta718156417.lol
-allegrolokalnie.pl-oferta921.top
-antiavast.com
-appnotrix.com
-bankofamerica-b-a.ph
-bankofamerica-cdn.ph
-bankofamerica-cheap.ph
-bankofamerica-com-upgrade-secure-login.ph
-bankofamerica-confirmation.ph
-bankofamerica-copy.ph
-bankofamerica-secure-processing-new.ph
-bankofamerica-ste.ph
-bankofamericaand.ph
-bankofamericabanking.ph
-bankofamericabetterconnected.ph
-bankofamericablock.ph
-bankofamericacolonial.ph
-bankofamericacom.ph
-bankofamericacorporateaircraft.ph
-bankofamericadownload.ph
-bankofamericaglobalconnections.ph
-bankofamericaowner.ph
-bankofamericaseecurities.ph
-bankofamericasux.ph
-body-trixrise.top
-botrking-cofnfrm128.com
-bybiksn.com
-circuitssupply.pontetruchaa.com
-cosibella.pl-ezebra.shop
-creditoconsumoltau.sbs
-daria.mariajackpot.space
-earnrespr.mittencactus.com
-emmamaas.shop
-facture-65221.com
-facture-65523.com
-facture-92481.com
-fedexbankofamerica.ph
-finny3-dolorum73.sbs
-flamencaastridhohle.es
-hcsnjsp.pics
-hetzy.net
-i65ipu0.pics
-id93131.sbs
-inkimono.live
-jvixax.icu
-kt4mhd.casa
-loutrevalleyfarmguesthouse.com
-moja-paczka.jvixax.icu
-odnowienie-domeny.com
-olx.oferta.mom
-opensae-io.nftdiscovers.com
-poppy-loafers.shop
-prim-clients.com
-shop.gnqdwc.top
-shop.hmhets.top
-shop.jlpijf.top
-shop.vffvllo.shop
-sofnco-support.com
-sprawdzamy-pracownikow.online
-vexamavo-logic.top
-vinted.zo2j93ai6l09pu.rest
-voravox-nutri.com
-wingman.cobblefeather.com
-www.bybiksn.com
+# No new records detected in the last check
