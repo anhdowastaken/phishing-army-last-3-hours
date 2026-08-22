@@ -1,8 +1,116 @@
 # New records added to Phishing Army Extended Blocklist
 # Source: https://phishing.army/download/phishing_army_blocklist_extended.txt
-# Last updated: 2026-08-21 21:16:34 UTC
-# Blocklist Last-Modified: Fri, 21 Aug 2026 16:00:09 GMT
-# Blocklist Last-Modified (epoch): 1787328009
-# Total new records: 0
+# Last updated: 2026-08-22 00:50:33 UTC
+# Blocklist Last-Modified: Fri, 21 Aug 2026 22:00:09 GMT
+# Blocklist Last-Modified (epoch): 1787349609
+# Total new records: 109
 
-# No new records detected in the last check
+akaudaloriotrade.com
+aktivvrdiost.com
+algomunsen.online
+allegrolokalnie.623645to.top
+allegrolokalnie.oferta-523784.cfd
+allegrolokalnie.pl-oferta812281.lol
+allegrolokalnie.pl-oferta9810.lol
+alnazafat.com.pk
+ampliobursanzia.com
+anmilermaxs.com
+atpartlvip.shop
+axelfundevotrade.com
+bafkreiefqggym253aiico6z2omg33x645ap4lfhuzduo6vghiqelqizfuq.ipfs.inbrowser.link
+benchmark.passkeyconnect.com
+blankfinvextrade.com
+bnkauth.eu.cc
+cofreroganancoz.com
+coinbase-max.com
+craftsportswearpolska.pl
+cubitsfuma.online
+datebooklngupdale.com
+dextfanfield.site
+download.vvtoken.top
+easypark-pl.top
+ekopolska.shop
+encardirect.com
+farobitreviatrade.com
+fisio0-ea19.sbs
+fisio0-in49.sbs
+fisio1-sed78.sbs
+fisio1-tempora48.sbs
+fisio2-est92.sbs
+fisio6-et70.sbs
+fisio6-illum97.sbs
+fisio6-rerum76.sbs
+fisio6-sint57.sbs
+fisio6-velit4.sbs
+fisio8-dicta34.sbs
+fisio9-voluptates71.sbs
+forpsi-checkid294793-manager.grignettavertical.it
+fucingiugg.online
+goldmenixplatform.com
+homlasalle.shop
+htmlbddhjghtnkcgjjhhjdhtml-dpptwqylzrhe.edgeone.dev
+id318667466.click
+id74470606.click
+imovinos.net
+investesse.net
+ironrg.com
+irsci.net
+irsci.online
+jelix.sbs
+jimzochiro.online
+klomrek.shop
+kudugucurli.online
+lnp5o7-usr4fcq4.b1cbhd.sbs
+my-order4576328901.shop
+nexorrio-tradepro.net
+novafundtrading.com
+np2me.com
+ochnik1-pl.com
+olx.id9627.click
+pennimankellogg.com
+picswithatwist.com
+pinkysbeauty.co.uk
+pipradariinvest.net
+plpefioserefeti.com
+pmc-surveys.co.uk
+pmcase.de
+pmconsulting-llc.com
+pos-id7271.eu.cc
+preosativncia.com
+psicocogli.online
+quantumevenityplatform.com
+radixicloud.site
+rentahumantrade.com
+resupassis.online
+riscusanat.org
+saway-fashiontrends.shop
+sbranrimem.online
+scricsozza.online
+selectt-ids633.eu.cc
+sharing.clrshare.store
+siempreducando.com
+socrashalo4ka.icu
+telechaonu.cyou
+teleeasurm.click
+telegkoorn.wiki
+telempixsa.shop
+teleowhowp.club
+thestormwelt.shop
+vagyonnovtokenpro-official.com
+velikarendovic.com
+villeroy-sale.shop
+vrijvermoganova.com
+weavebalancex.org
+whatsarric.online
+wrongfunzi.online
+www.allegrolokalnie.pl-77655.top
+www.craftsportswearpolska.pl
+www.ekopolska.shop
+www.saway-fashiontrends.shop
+www4.kapitall.life
+www4.kapitall.my
+xenovasync.site
+xionplanerun.site
+zentpentboard.site
+zhqparlids.shop
+zhuskaldontrade.com
