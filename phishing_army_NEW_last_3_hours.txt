@@ -1,8 +1,87 @@
 # New records added to Phishing Army Extended Blocklist
 # Source: https://phishing.army/download/phishing_army_blocklist_extended.txt
-# Last updated: 2026-08-22 09:19:28 UTC
-# Blocklist Last-Modified: Sat, 22 Aug 2026 04:00:09 GMT
-# Blocklist Last-Modified (epoch): 1787371209
-# Total new records: 0
+# Last updated: 2026-08-22 12:23:36 UTC
+# Blocklist Last-Modified: Sat, 22 Aug 2026 10:00:09 GMT
+# Blocklist Last-Modified (epoch): 1787392809
+# Total new records: 80
 
-# No new records detected in the last check
+activat-securi.com
+alpbitrextrade.com
+ammonlinea.online
+bactebomba.online
+bafkreid6nvfvv7msglmhjwh2ferh3oygnjeunoq3vag5jr6ner3tyxtdfu.ipfs.inbrowser.link
+bitcoinapextrade.net
+bitcoingoldchain.org
+brintaxioflarvixtrade.com
+cennovn.com
+convuwingh.online
+covenrifle.online
+crecorfundoriaia.com
+cumbregananci.com
+daltacrestorix.com
+dalventakt.com
+daucubatam.online
+dobraaktywolnia.com
+eaer.top
+elbechain.org
+ethicormaxv72.net
+fisio1-quis52.sbs
+fisio1-ut1.sbs
+fisio4-incidunt84.sbs
+fisio4-perferendis52.sbs
+fisio5-hic51.sbs
+fisio6-nemo29.sbs
+fisio6-ut76.sbs
+fisio8-ipsum37.sbs
+fisio8-rerum86.sbs
+fisio9-est40.sbs
+fisio9-iure93.sbs
+fortrendoire.net
+gardendomes.shop
+goldcapitalai.net
+hexoriaforex.net
+hronaktivera.com
+hub-browse.com
+hupka-is6251.eu.cc
+idsynntra.site
+istikrarcapitaltrading.net
+isym.top
+kenneriema.online
+lagunanrendstead.com
+lyonparfs.store
+naxuluzireri.com
+ncap.rjvmp.ink
+newshubpress.com
+oawn.top
+orange.fr-particulier-espace.com
+ottrisemen.online
+paypal-check.com
+paypal-details.com
+paypal-invoice.com
+paypal-payout.com
+paypal-receipt.xyz
+perlosheel.online
+portalcapitivo.net
+prime.support-pl.com
+prismawalletixtrade.com
+pub-11b04cf48c6041ea9883fe7435f3fed5.r2.dev
+requiindif.online
+rusticflora.net
+samuraiedgetrade.com
+sapredibru.online
+schiacrema.online
+sklep-kfd.store
+sterlingvaultmere.com
+support-acs.eu.cc
+tfbc.shop
+tir.marketexora.com
+vmitrulden.net
+wellsfargoverify01.com
+wrkupuj.shop
+www.activat-securi.com
+www.eaer.top
+www.isym.top
+www.oawn.top
+www.tfbc.shop
+xhbhbcqk.shop
+zorzalcaudalorio.net
