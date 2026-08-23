@@ -1,76 +1,8 @@
 # New records added to Phishing Army Extended Blocklist
 # Source: https://phishing.army/download/phishing_army_blocklist_extended.txt
-# Last updated: 2026-08-23 12:24:41 UTC
+# Last updated: 2026-08-23 15:14:31 UTC
 # Blocklist Last-Modified: Sun, 23 Aug 2026 10:00:09 GMT
 # Blocklist Last-Modified (epoch): 1787479209
-# Total new records: 69
+# Total new records: 0
 
-92114la.com
-address.counters.click
-allegrolokalnie.lokalna-ofeta72822.lol
-ammonsecaza.rest
-arczentdash.site
-astrmode.info
-bankofamerica-sanal.ph
-bankofamerica-spa.ph
-bankofamericacenter.ph
-bankofamericagroup.ph
-bankofamericapersonal.ph
-bankofamericaticket.ph
-chrorohub.site
-dattilanci.rest
-eleclevel.info
-esproenswa.rest
-fisio1-non31.sbs
-fisio1-quis66.sbs
-fisio2-est47.sbs
-fisio2-suscipit13.sbs
-fisio3-rerum1.sbs
-fisio5-repellat96.sbs
-fisio5-ut30.sbs
-fisio6-enim22.sbs
-fisio6-neque80.sbs
-fisio7-sunt27.sbs
-fisio9-impedit46.sbs
-fisio9-rerum20.sbs
-google-meet.top
-holometra.info
-kurreisen.online
-laricerendorio.net
-lowaspolska.pl
-luxemyshop.com
-luxonclutch.de
-mitrinepot.rest
-nanorealm.info
-neonhopack.site
-oferta-523784.cfd
-omverynet.site
-operqo.net
-pc23dfu.account-paypal.antimoney-laundering.org
-phenoginge.rest
-qundrel.shop
-rubrique-historique-transaction.fr
-sdncontabil.com.br
-secure-index-page--pugetsoundsurll.replit.app
-secure-page-builder--g-swalley.replit.app
-secure-site-manager--natalypaint75.replit.app
-security-page-builder--omnia6.replit.app
-security-server-landing-page--tketterhh.replit.app
-solagrid.blog
-solamint.info
-stracloud.info
-support-pl.eu.cc
-supportautomatique-abovideo.help
-suspend-bankofamerica.ph
-titavibe.blog
-trixdeck.info
-trophbiond.online
-unamadista.rest
-update-bankofamerica-com-login2.ph
-uspsgateway.com
-vanillaturel.fr
-vinted1786.verificationlink.help
-wittenhorst.eu
-www.lowaspolska.pl
-www.supportautomatique-abovideo.help
-xfinitypassword.com
+# No new records detected in the last check
