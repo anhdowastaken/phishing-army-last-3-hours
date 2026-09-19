@@ -1,90 +1,28 @@
 # New records added to Phishing Army Extended Blocklist
 # Source: https://phishing.army/download/phishing_army_blocklist_extended.txt
-# Last updated: 2026-09-19 07:42:30 UTC
-# Blocklist Last-Modified: Sat, 19 Sep 2026 04:00:11 GMT
-# Blocklist Last-Modified (epoch): 1789790411
-# Total new records: 83
+# Last updated: 2026-09-19 12:48:16 UTC
+# Blocklist Last-Modified: Sat, 19 Sep 2026 10:00:10 GMT
+# Blocklist Last-Modified (epoch): 1789812010
+# Total new records: 21
 
-753525.xyz
-accounts.velonqore.com
-acsadls.cfd
-acsdlwk.cfd
-acselwk.cfd
-acsgdsa.cfd
-acshwjzl.cfd
-acshyte.cfd
-acsoiyr.cfd
-acsprew.cfd
-acssmz.cfd
-acswkzlf.cfd
-acswlewa.cfd
-acswlzis.cfd
-advancedfootandankle1.skinworkllc.com
-advertising-account-issue-review.edgeone.dev
-allegro.pl-oferta7409873643.shop
-allegrolokalnie.pl-oferta7409873643.shop
-allegrolokalnie.pl92921.top
-app.shopledgerapp.com
-appleid-suporte.com
-authenticcart.com
-beautycana.net
-bemused-growth-tlz9b.shipped.cloud
-bet83058.com
-bit.clubdealnews.com
-calqiro.com
-candybears.org
-contact-review-handing.live
-ct-v8.com
-ctyousetok-yo.top
-device-instagram.com
-dg.abouys.shop
-diversepl.shop
-gpttrader.fr
-hitt-teams-meet.com
-homelbanrkings-cajasarequipape.online
-ip7091.craftum.io
-it.one-axa.com
-konto.evergreenfin.ltd
-l.gotourl.es
-managwebajkas8gy328isdg.dfgj35tygsdgdfhjsd.com
-menu.sd
-mesdepromolu.com
-olx.pl-oferta7409873643.shop
-p25365.cc
-pangolin.tsp-cdn.net
-pastayiyiyin.sbs
-paymob.shop
-petite-fuchsia-kats8zhw.edgeone.dev
-pl-oferta7409873643.shop
-postoffice.claimhere.co.uk
-promosdalu.com
-pw8p5mqkuh.vcstrading.eu
-roblox.com.bo
-rs10-att.modems.tsp-cdn.net
-scotia2026sercuritty.com
-security-server-landing-page--immoney00007.replit.app
-security-server-page--delta2rolspan.replit.app
-shopee-ds.com
-smodzf.com
-teams-login.com
-teleightss.click
-teleimesgu.help
-telemquest.help
-teleproxsa.shop
-tiktokusa.vip
-tokenim.stream
-tokenim.trade
-urlz.li
-vinted.pl-oferta7409873643.shop
-vintedsend47773c1086.new535-2014.lol
-vofnbo.com
-walegoons.com
-web3wallet-exo-dus.zapier.app
-www.7wksdi37.6lnov0.cn
-www.contact-review-handing.live
-www.dsignpost.com
-www.p25365.cc
-www.shopee-ds.com
-www.shorten.tv
-wyseservices.in
-xahdhwy.com
+allegrolokalnie.oferta902342.shop
+allegrolokalnie.pl-86422.top
+allegrolokalnie.pl32993.top
+allegrolokalnie.smart-98342.cfd
+celoriastore.shop
+domdetqsign.shop
+eportalweb.app
+esoiqstore.shop
+eur.agfaga.shop
+ksjkasdd.shop
+maegnancampbell.com
+penky.shop
+sledz-przesylke.com
+taslimaenterprise.com
+trevbrin.cyou
+tw-activate.com.es
+verifycredia.lovelylunaclaire.com
+vinted.id7584581.cfd
+www.domdetqsign.shop
+www.ksjkasdd.shop
+xportalwallet.com
