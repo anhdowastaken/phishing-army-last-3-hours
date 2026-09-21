@@ -1,8 +1,115 @@
 # New records added to Phishing Army Extended Blocklist
 # Source: https://phishing.army/download/phishing_army_blocklist_extended.txt
-# Last updated: 2026-09-21 02:45:59 UTC
-# Blocklist Last-Modified: Sun, 20 Sep 2026 22:00:10 GMT
-# Blocklist Last-Modified (epoch): 1789941610
-# Total new records: 0
+# Last updated: 2026-09-21 08:27:07 UTC
+# Blocklist Last-Modified: Mon, 21 Sep 2026 04:00:10 GMT
+# Blocklist Last-Modified (epoch): 1789963210
+# Total new records: 108
 
-# No new records detected in the last check
+370472.xyz
+4923493-coinbase.com
+68777.click
+73a2370016b7.us3h4.paypal-support.antimoney-laundering.org
+85466576.top
+936578.xyz
+access-ndaxio.zapier.app
+account.fr.paypal.antimoney-laundering.org
+acselwk.cfd
+acsrozj.cfd
+acswlewa.cfd
+acswlzis.cfd
+alebilet.85466576.top
+alebilet.pl-platnosci708947213.lol
+alebilet.pl2bz6vc7u.cyou
+alebilet.pl74495.cyou
+allegro.85466576.top
+allegro.pl-platnosci708947213.lol
+allegro.pl2bz6vc7u.cyou
+allegro.pl74495.cyou
+allegrolokalnie.85466576.top
+allegrolokalnie.pl-platnosci708947213.lol
+allegrolokalnie.pl2bz6vc7u.cyou
+allegrolokalnie.pl74495.cyou
+api.bugcutter.com
+auth-dealers-autoscout24-com-oauth2-default-v1-authorize.baour.ch
+b.bugcutter.com
+censusfin.com
+chatgptpl.com
+cn-feed-whatsapp.com.cn
+correosccl.cc
+cu.arrowbases.com
+dhl-lp2.demo.weblegend.pl
+dpd-ie.ink
+durskelin.com
+dynamicstore.sbs
+egofresh.com
+emspro.co.za
+fiscusfin.com
+gcdctz.shop
+globalcargospot.com
+hostvipxfl.com
+iccmpactions.info
+im-token-hk-cdn.xyz
+kpdw9iuh11.bugcutter.com
+ledger-app.my
+lumveraselect.shop
+lx.zr2nta.qpon
+mantoonlineboxingstore.com
+naver.blog.ddgaz0813.com
+newpage.click
+nhnarticles.cafe
+olx.85466576.top
+olx.pl-platnosci708947213.lol
+olx.pl2bz6vc7u.cyou
+olx.pl74495.cyou
+parvelaselect.shop
+paymentlbcenligne.pioy.fr
+pl-platnosci708947213.lol
+pl2bz6vc7u.cyou
+pl74495.cyou
+promegaofers.com
+quaestusfin.com
+quaestustrade.com
+queensatlanta.org
+robustfund.sbs
+s.teams-rt.com
+s.teams-ts.com
+scarletchannel.sbs
+ses-l.com
+seydbi.shop
+share.lat
+sharpsport.mypi.co
+sp-papic.rs
+steadyfilter.info
+teams-fl.com
+telclcel.sbs
+telesgloba.help
+texeflexib.club
+texeixxexo.work
+texekeypro.wiki
+texelibert.wiki
+texelogicp.wiki
+texeprosuj.wiki
+texeprosuj.work
+texerevolu.xyz
+texeyxxoft.wiki
+tokenim.bid
+tokenim.gripe
+tramssakcia.cyou
+unifi.bugcutter.com
+update-js.com
+vconference.spahotel.guru
+vference.spahotel.guru
+vinted.85466576.top
+vinted.pl-platnosci708947213.lol
+vinted.pl2bz6vc7u.cyou
+vinted.pl74495.cyou
+www.associazionegenia.it
+www.cn-feed-whatsapp.com.cn
+www.globalcargospot.com
+www.hostvipxfl.com
+www.konto.evergreenfin.ltd
+www.lumveraselect.shop
+www.parvelaselect.shop
+www.roblox.com.kz
+xxwh.airbnbvip.com
+zh-netflix.cn
