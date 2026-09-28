@@ -1,8 +1,124 @@
 # New records added to Phishing Army Extended Blocklist
 # Source: https://phishing.army/download/phishing_army_blocklist_extended.txt
-# Last updated: 2026-09-28 02:58:47 UTC
-# Blocklist Last-Modified: Sun, 27 Sep 2026 22:00:22 GMT
-# Blocklist Last-Modified (epoch): 1790546422
-# Total new records: 0
+# Last updated: 2026-09-28 09:29:56 UTC
+# Blocklist Last-Modified: Mon, 28 Sep 2026 04:00:13 GMT
+# Blocklist Last-Modified (epoch): 1790568013
+# Total new records: 117
 
-# No new records detected in the last check
+4178185.lat
+69cd6b1c0023c3394d002eeb.appwrite.network
+73a2370016b7.scm.paypal-support.antimoney-laundering.org
+73a2370016b7.yamobile.paypal-update.antimoney-laundering.org
+8647835.top
+abrir.link
+agenciachilebrasil.com.br
+alebilet.4178185.lat
+alebilet.8647835.top
+alebilet.pi-ofeta.sbs
+allegro.4178185.lat
+allegro.8647835.top
+allegro.pi-ofeta.sbs
+allegrolokalnie.4178185.lat
+allegrolokalnie.kkupteraz.shop
+allegrolokalnie.lokalna-ofreta83247237143287.cyou
+allegrolokalnie.oferta-7418527.cfd
+allegrolokalnie.pi-ofeta.sbs
+allegrolokalnie.qoferta.click
+amuentooomenn--aumento20.replit.app
+aurewrva.shop
+bcslmpitaly.com
+booking.booking-confirmation2209app.com
+briefnowdaily.pro
+ca-ndaxcdn.framer.media
+chersytattungf87.site
+cn.mxcmer.com
+concavidet.store
+containersforsale.com.pk
+credito-prestamo-online--creditprestamo.replit.app
+cupomdeofertastododia.com
+debug.evergreenfin.ltd
+domlena.shop
+duplipalae.store
+flashdeskdaily.site
+frghgjhjjhhj--aumento20.replit.app
+futuro-seguro--pensandoenti.replit.app
+gaunttinti.store
+gef.me
+html-preview-0725ab.previewship.net
+https-wwwv-roblox.co
+ibbhelp.com
+icloud-photo.com
+iman158.com
+kizunacore.com
+ledger-cn.com
+listarepli.store
+littleheartscare-com.eolani.shared.1984.is
+livedailydesk.xyz
+m.fyqn9810la0y.com
+mainvault-portfolio.com
+meta-assistance-center-2026.bolt.host
+miccrossofteam.top
+mytaxhasil.my
+oferta-7418527.cfd
+olx.4178185.lat
+olx.8647835.top
+olx.pi-ofeta.sbs
+paket-zustelldiensta.ink
+pi-ofeta.sbs
+programrabatowy.shop
+qjzfcg.njztb.cn
+rbcode.net
+scaleparca.store
+security-server-static-page--fordsvt9802.replit.app
+server.teleazuer.com
+steamconnunty.sbs
+subsasbili.store
+tagronfirm.lovable.app
+telennovat.help
+twomc-research.com
+ukkfovzo.shop
+urlz.li
+ventaburea.store
+villapaupu.store
+vinted.4178185.lat
+vinted.8647835.top
+vinted.pi-ofeta.sbs
+visayafundmoor.capital
+webufexby.com
+webufexdr.com
+webufexgb.com
+webufexpw.com
+webufexsu.com
+www.19.incomeary.sbs
+www.1c.cartbloom.vip
+www.20.purevital.win
+www.3v.mindcanvas.fun
+www.49.pixelcraft.mom
+www.4j.vibenexus.info
+www.7u.apexvertex.live
+www.allegro.lokalna-ofeta893724781.cfd
+www.aurewrva.shop
+www.bcslmpitaly.com
+www.bv.novasprout.autos
+www.ibbhelp.com
+www.iman158.com
+www.miccrossofteam.top
+www.mytaxhasil.my
+www.roblox.com.bn
+www.sophies.hostel.town
+www.w1.novazon.sbs
+www.webufexby.com
+www.webufexdr.com
+www.webufexgb.com
+www.webufexpw.com
+www.webufexsu.com
+www.x7.vibecart.cfd
+www.xm.okrate.click
+www.xn.shopvibe.cfd
+www.xv.cogniweb.lol
+www.xy.opticode.lat
+www.y9.apexbyte.lat
+www.yo.syncbyte.icu
+www.z4.synapsex.lol
+xamlyqorveldarin.com
+zustellungvonpaketenc.ink
